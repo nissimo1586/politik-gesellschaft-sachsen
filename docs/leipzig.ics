@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Politik & Gesellschaft – Leipzig
+X-WR-TIMEZONE:Europe/Berlin
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c26c12170243e7c687812582@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261117T180000Z
+DTEND:20261117T200000Z
+SUMMARY:[Leipzig] Mujeres Libres – Freie Frauen im Spanischen Bürgerkrie
+ g
+LOCATION:Capa-Haus\, Jahnallee 61\, 04177 Leipzig
+DESCRIPTION:Vortrag und Diskussion mit Vera Bianchi zur Geschichte der Muje
+ res Libres im Spanischen Bürgerkrieg.\n\nQuelle: https://sachsen.rosalux.
+ de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e994
+ 2f5081d1fade
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
+ ?cHash=26d6b27df7a04d14e9942f5081d1fade
+END:VEVENT
+BEGIN:VEVENT
+UID:85767dd43feac474bd251ed5@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20270111T160000Z
+DTEND:20270111T190000Z
+SUMMARY:[Leipzig] Charmanter Umgang mit Widerstand
+LOCATION:Grünes Quartier\, Heinrichstraße 9\, 04317 Leipzig
+DESCRIPTION:Workshop zu Gesprächsführung\, Konfliktbearbeitung und gesell
+ schaftlicher Polarisierung.\n\nQuelle: https://daks-sachsen.de/event/charm
+ anter-umgang-mit-widerstand/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
+END:VEVENT
+END:VCALENDAR
