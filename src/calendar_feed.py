@@ -62,7 +62,14 @@ def relevant(event):
     return any(word in text for word in KEYWORDS)
 
 def normalize(e):
-    start = when(e.get("start"))
+    # Ein datumsloser oder nur tagesgenauer Schema.org-Wert ist KEINE Uhrzeit.
+    raw_start = e.get("start")
+    if isinstance(raw_start, str) and not re.search(r"(?:T|\s)\d{1,2}:\d{2}", raw_start):
+        return None
+    start = when(raw_start)
+    if (start and start.hour == 0 and start.minute == 0 and
+            e.get("source_id") in ("daks", "rosalux")):
+        return None
     title = clean(e.get("title"))
     if not start or not title or not TODAY <= start.date() <= TODAY + timedelta(days=270):
         return None
@@ -123,38 +130,66 @@ def parse_date(text):
         except ValueError: return None
     return None
 
-def detail_events(soup,source_id,url):
-    lines=[clean(s) for s in soup.stripped_strings]
-    heading=clean(soup.h1.get_text(" ",strip=True)) if soup.h1 else ""
-    def section(label,stop):
-        for i,s in enumerate(lines):
-            if s.casefold()==label.casefold():
-                result=[]
-                for part in lines[i+1:]:
+def detail_events(soup, source_id, url):
+    """Liest Datum/Uhrzeit vom Veranstalter statt datumsloser JSON-LD-Angaben."""
+    lines = [clean(s) for s in soup.stripped_strings]
+    heading = clean(soup.h1.get_text(" ", strip=True)) if soup.h1 else ""
+    def section(label, stop):
+        for i, s in enumerate(lines):
+            if s.casefold() == label.casefold():
+                result = []
+                for part in lines[i + 1:]:
                     if part.casefold() in stop: break
                     result.append(part)
-                    if len(result)>=7: break
+                    if len(result) >= 10: break
                 return " ".join(result)
         return ""
-    if source_id=="rosalux":
-        loc=section("Veranstaltungsort",{"zeit","beschreibung","themenbereiche"})
-        raw=section("Zeit",{"beschreibung","themenbereiche","zugeordnete dateien"})
-        title=re.sub(r"^.*?20\d{2}\s*:\s*[^:]+:\s*","",heading).strip()
-    elif source_id=="daks":
-        loc=section("Standort",{"standort 2","kategorie","referent*in","labels"})
-        raw=section("Datum",{"uhrzeit","standort","kategorie"})+" "+section("Uhrzeit",{"standort","kategorie","labels"})
-        title=heading
-    else: return []
-    day=parse_date(raw) or parse_date(heading)
-    times=TIME.findall(raw)
-    if not day or not times or not loc or not find_city(loc): return []
-    start=datetime(day.year,day.month,day.day,*map(int,times[0]),tzinfo=ZONE)
-    end=(datetime(day.year,day.month,day.day,*map(int,times[1]),tzinfo=ZONE)
-         if len(times)>1 else start+timedelta(hours=2))
-    return [dict(source_id=source_id,title=title,start=start,end=end,
-                 location=loc,description=" ".join(lines[:25])[:650],
-                 url=url,status="CANCELLED" if "abgesagt" in heading.lower()
-                 else "CONFIRMED")]
+
+    if source_id == "rosalux":
+        loc = section("Veranstaltungsort",
+                      {"zeit", "beschreibung", "themenbereiche"})
+        raw = section("Zeit",
+                      {"beschreibung", "themenbereiche", "zugeordnete dateien"})
+        title = re.sub(r"^.*?20\d{2}\s*:\s*", "", heading)
+        title = re.sub(r"^(?:abgesagt\s*:\s*)?", "", title, flags=re.I)
+        title = re.sub(r"^[^:]{1,45}:\s*", "", title).strip()
+        description = section("Beschreibung",
+                     {"ort", "kontakt", "ähnliche veranstaltungen", "weitere informationen"})[:750]
+    elif source_id == "daks":
+        loc = section("Ort", {"ort 2", "kategorie", "referent*in", "anmelden", "labels"})
+        if not loc:
+            loc = section("Standort", {"standort 2", "kategorie", "referent*in", "labels"})
+        raw = section("Datum", {"uhrzeit", "ort", "standort", "kategorie"})
+        raw += " " + section("Uhrzeit",
+                       {"ort", "ort 2", "standort", "kategorie", "labels"})
+        title = heading
+        article = soup.find("article") or soup.find("main")
+        paragraphs = [clean(p.get_text(" ", strip=True)) for p in article.find_all("p")] if article else []
+        description = " ".join(p for p in paragraphs if len(p) >= 45)[:750]
+        # Viele DAKS-Detailseiten nennen die Stadt sichtbar, aber die Straße nur in JSON-LD.
+        address = jsonld_events(soup, source_id, url)
+        for structured in address:
+            full = clean(structured.get("location"))
+            if len(full) > len(loc) and find_city(full) == find_city(loc):
+                loc = full
+                break
+    else:
+        return []
+    day = parse_date(raw) or parse_date(heading)
+    times = TIME.findall(raw)
+    if not day or not times or not loc or not find_city(loc):
+        return []
+    start = datetime(day.year, day.month, day.day, *map(int, times[0]), tzinfo=ZONE)
+    end = (datetime(day.year, day.month, day.day, *map(int, times[1]), tzinfo=ZONE)
+           if len(times) > 1 else start + timedelta(hours=2))
+    if end <= start: end = start + timedelta(hours=2)
+    excerpt = (heading + " " + description[:220]).casefold()
+    cancelled = ("abgesagt" in heading.casefold() or
+                 "leider müssen wir die veranstaltung" in excerpt or
+                 "veranstaltung fällt aus" in excerpt)
+    return [dict(source_id=source_id, title=title, start=start, end=end,
+                 location=loc, description=description,
+                 url=url, status="CANCELLED" if cancelled else "CONFIRMED")]
 
 def fetch(url):
     try:
@@ -167,31 +202,39 @@ def fetch(url):
         return None
 
 def source_events(src):
-    if src["adapter"]=="manual": return None,"nur manuelle Erfassung"
-    page=fetch(src["url"])
-    if page is None: return None,"Abruf fehlgeschlagen"
-    found=jsonld_events(page,src["id"],src["url"])
-    detail_links=[]
+    if src["adapter"] == "manual":
+        return None, "nur manuelle Erfassung"
+    page = fetch(src["url"])
+    if page is None:
+        return None, "Abruf fehlgeschlagen"
+    found = jsonld_events(page, src["id"], src["url"])
+    detail_links = []
     for a in page.select("a[href]"):
-        u=urljoin(src["url"],a["href"])
-        host=urlparse(u).hostname or ""
-        path=urlparse(u).path
-        if (src["id"]=="rosalux" and host.endswith("rosalux.de") and
-            "/veranstaltung/es_detail/" in path) or (
-            src["id"]=="daks" and host.endswith("daks-sachsen.de") and
-            "/event/" in path):
-            if u not in detail_links: detail_links.append(u)
+        u = urljoin(src["url"], a["href"])
+        host = urlparse(u).hostname or ""
+        path = urlparse(u).path
+        if (src["id"] == "rosalux" and host.endswith("rosalux.de") and
+                "/veranstaltung/es_detail/" in path) or (
+                src["id"] == "daks" and host.endswith("daks-sachsen.de") and
+                "/event/" in path):
+            if u not in detail_links:
+                detail_links.append(u)
     for u in detail_links[:70]:
-        detail=fetch(u)
-        if detail is None: continue
-        new=jsonld_events(detail,src["id"],u)
-        found.extend(new or detail_events(detail,src["id"],u))
-    verified=[event for e in found if (event:=normalize(e)) and relevant(event)]
-    if not verified: return None,"keine validierten Termine"
-    return verified,f"{len(verified)} validierte Termine"
+        detail = fetch(u)
+        if detail is None:
+            continue
+        # Bei DAKS sind JSON-LD-Zeiten teilweise nur Tageswerte;
+        # die sichtbaren Detailangaben haben daher Vorrang.
+        parsed = detail_events(detail, src["id"], u)
+        found.extend(parsed if parsed else jsonld_events(detail, src["id"], u))
+    verified = [event for e in found
+                if (event := normalize(e)) and relevant(event)]
+    if not verified:
+        return None, "keine validierten Termine"
+    return verified, f"{len(verified)} validierte Termine"
 
 def identity(e):
-    key="|".join((e["url"].split("?")[0],e["start"][:10],e["city"]))
+    key=e["url"].split("?")[0] or "|".join((e["title"],e["start"][:10],e["city"]))
     return hashlib.sha256(key.encode()).hexdigest()[:24]+"@politik-gesellschaft-sachsen"
 
 def dedupe(events):
@@ -227,7 +270,7 @@ def write_ics(path,events,name):
         end=datetime.fromisoformat(e["end"]).astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
         lines += ["BEGIN:VEVENT","UID:"+identity(e),"DTSTAMP:"+now,
                   "DTSTART:"+start,"DTEND:"+end,
-                  "SUMMARY:"+escape("["+e["city"]+"] "+e["title"]),
+                  "SUMMARY:"+escape("["+e["city"]+"] "+("[ABGESAGT] " if e["status"]=="CANCELLED" else "")+e["title"]),
                   "LOCATION:"+escape(e["location"] or e["city"]),
                   "DESCRIPTION:"+escape(e["description"]+"\n\nQuelle: "+e["url"]),
                   "STATUS:"+e["status"]]
