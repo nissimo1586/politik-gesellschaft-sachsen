@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Politik & Gesellschaft – Sachsen
+X-WR-TIMEZONE:Europe/Berlin
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:8f87ac383bae48fed4dda4f7@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:[Dresden] Meine verletzte Generation – Lesung mit Carla Hinrichs
+LOCATION:Gartenlokal Fortschritt\, Bärnsdorfer Straße 2a\, 01097 Dresden
+DESCRIPTION:Lesung und Diskussion mit Carla Hinrichs über die Letzte Gener
+ ation\, Grundrechte und den Umgang des Staates mit Klimaprotesten.\n\nQuel
+ le: https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletz
+ te-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletzt
+ e-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4a1fe28c2c05f4814b6a21@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261114T090000Z
+DTEND:20261114T160000Z
+SUMMARY:[Chemnitz] Kommunalrecht im Fokus: Baurecht und Bauleitplanung
+LOCATION:Jugendherberge Chemnitz eins\, Getreidemarkt 1\, 09111 Chemnitz (a
+ uch online)
+DESCRIPTION:Seminar zu kommunalem Baurecht\, Bebauungsplänen und Beteiligu
+ ngsverfahren. Anmeldung erforderlich.\n\nQuelle: https://daks-sachsen.de/e
+ vent/baurecht-2/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/baurecht-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:df05df5554a16dba05cfc72f@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261117T170000Z
+DTEND:20261117T193000Z
+SUMMARY:[Dresden] Feminismus von F bis S
+LOCATION:Wir AG\, Martin-Luther-Straße 21\, 01099 Dresden
+DESCRIPTION:Workshop zu Grundlagen des Feminismus und geschlechtlicher Viel
+ falt mit Almuth Heinrich. Anmeldung erforderlich.\n\nQuelle: https://sachs
+ en.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=7
+ d41249414b189c23f3c831bffa0a56d
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
+ -f-bis-s?cHash=7d41249414b189c23f3c831bffa0a56d
+END:VEVENT
+BEGIN:VEVENT
+UID:c26c12170243e7c687812582@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261117T180000Z
+DTEND:20261117T200000Z
+SUMMARY:[Leipzig] Mujeres Libres – Freie Frauen im Spanischen Bürgerkrie
+ g
+LOCATION:Capa-Haus\, Jahnallee 61\, 04177 Leipzig
+DESCRIPTION:Vortrag und Diskussion mit Vera Bianchi zur Geschichte der Muje
+ res Libres im Spanischen Bürgerkrieg.\n\nQuelle: https://sachsen.rosalux.
+ de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e994
+ 2f5081d1fade
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
+ ?cHash=26d6b27df7a04d14e9942f5081d1fade
+END:VEVENT
+BEGIN:VEVENT
+UID:9046fc64f832a55b6edee2bc@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+SUMMARY:[Glauchau] Aller Aufstieg ist schwer – Arm\, ostdeutsch\, Arbeite
+ rkind
+LOCATION:Club-Kino Glauchau\, Marienstraße 46\, 08371 Glauchau
+DESCRIPTION:Lesung und Gespräch mit Ramona Wuttig über soziale Ungleichhe
+ it und Chancengleichheit.\n\nQuelle: https://sachsen.rosalux.de/veranstalt
+ ung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=6b329ea618dd415d72493a
+ 13916bba9d
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
+ -ist-schwer?cHash=6b329ea618dd415d72493a13916bba9d
+END:VEVENT
+BEGIN:VEVENT
+UID:91811ab5e2c81a2381e3156d@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261124T170000Z
+DTEND:20261124T193000Z
+SUMMARY:[Görlitz] Return of the K-Gruppen
+LOCATION:Kollektiv Schulstraße\, Schulstraße 8\, 02826 Görlitz
+DESCRIPTION:Workshop mit Volkmar Wölk und Daniela Schmohl über die Geschi
+ chte der K-Gruppen und gegenwärtige politische Organisation.\n\nQuelle: h
+ ttps://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gr
+ uppen?cHash=56006cda5ac120375e09eb4547ceea55
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
+ k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
+END:VEVENT
+BEGIN:VEVENT
+UID:85767dd43feac474bd251ed5@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20270111T160000Z
+DTEND:20270111T190000Z
+SUMMARY:[Leipzig] Charmanter Umgang mit Widerstand
+LOCATION:Grünes Quartier\, Heinrichstraße 9\, 04317 Leipzig
+DESCRIPTION:Workshop zu Gesprächsführung\, Konfliktbearbeitung und gesell
+ schaftlicher Polarisierung.\n\nQuelle: https://daks-sachsen.de/event/charm
+ anter-umgang-mit-widerstand/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
+END:VEVENT
+END:VCALENDAR
