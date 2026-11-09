@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Politik & Gesellschaft – Dresden
+X-WR-TIMEZONE:Europe/Berlin
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:8f87ac383bae48fed4dda4f7@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:[Dresden] Meine verletzte Generation – Lesung mit Carla Hinrichs
+LOCATION:Gartenlokal Fortschritt\, Bärnsdorfer Straße 2a\, 01097 Dresden
+DESCRIPTION:Lesung und Diskussion mit Carla Hinrichs über die Letzte Gener
+ ation\, Grundrechte und den Umgang des Staates mit Klimaprotesten.\n\nQuel
+ le: https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletz
+ te-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletzt
+ e-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
+END:VEVENT
+BEGIN:VEVENT
+UID:df05df5554a16dba05cfc72f@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261117T170000Z
+DTEND:20261117T193000Z
+SUMMARY:[Dresden] Feminismus von F bis S
+LOCATION:Wir AG\, Martin-Luther-Straße 21\, 01099 Dresden
+DESCRIPTION:Workshop zu Grundlagen des Feminismus und geschlechtlicher Viel
+ falt mit Almuth Heinrich. Anmeldung erforderlich.\n\nQuelle: https://sachs
+ en.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=7
+ d41249414b189c23f3c831bffa0a56d
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
+ -f-bis-s?cHash=7d41249414b189c23f3c831bffa0a56d
+END:VEVENT
+END:VCALENDAR
