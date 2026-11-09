@@ -1,0 +1,86 @@
+[
+  {
+    "id": "kreuzer",
+    "name": "Kreuzer Leipzig",
+    "url": "https://kreuzer-leipzig.de/termine",
+    "adapter": "manual"
+  },
+  {
+    "id": "daks",
+    "name": "DAKS Sachsen",
+    "url": "https://daks-sachsen.de/veranstaltungskalender/",
+    "adapter": "daks"
+  },
+  {
+    "id": "weiterdenken",
+    "name": "Weiterdenken",
+    "url": "https://weiterdenken.de/de/veranstaltungen",
+    "adapter": "generic"
+  },
+  {
+    "id": "rosalux",
+    "name": "Rosa-Luxemburg-Stiftung Sachsen",
+    "url": "https://sachsen.rosalux.de/veranstaltungen",
+    "adapter": "rosalux"
+  },
+  {
+    "id": "bund",
+    "name": "BUND Sachsen",
+    "url": "https://www.bund-sachsen.de/service/termine/",
+    "adapter": "generic"
+  },
+  {
+    "id": "abl",
+    "name": "AbL Mitteldeutschland",
+    "url": "https://www.abl-mitteldeutschland.de/termine",
+    "adapter": "generic"
+  },
+  {
+    "id": "azconni",
+    "name": "AZ Conni Dresden",
+    "url": "https://www.azconni.de/termine/",
+    "adapter": "generic"
+  },
+  {
+    "id": "conneisland",
+    "name": "Conne Island",
+    "url": "https://conne-island.de/",
+    "adapter": "generic"
+  },
+  {
+    "id": "mittendrin",
+    "name": "Filmclub mittendrin TU Chemnitz",
+    "url": "https://www.tu-chemnitz.de/stud/club/mittendrin/",
+    "adapter": "generic"
+  },
+  {
+    "id": "kaffeesatz",
+    "name": "KaffeeSatz Chemnitz",
+    "url": "https://www.kaffeesatz-chemnitz.de/events.html",
+    "adapter": "generic"
+  },
+  {
+    "id": "ig_chemnitz_nazifrei",
+    "name": "Instagram chemnitz_nazifrei",
+    "url": "https://www.instagram.com/chemnitz_nazifrei/",
+    "adapter": "manual"
+  },
+  {
+    "id": "ig_handinhand",
+    "name": "Instagram hand.in.hand.ev",
+    "url": "https://www.instagram.com/hand.in.hand.ev/",
+    "adapter": "manual"
+  },
+  {
+    "id": "ig_talschock",
+    "name": "Instagram ajz_talschock",
+    "url": "https://www.instagram.com/ajz_talschock/",
+    "adapter": "manual"
+  },
+  {
+    "id": "ig_subbotnik",
+    "name": "Instagram subbotnik_chemnitz",
+    "url": "https://www.instagram.com/subbotnik_chemnitz/",
+    "adapter": "manual"
+  }
+]
