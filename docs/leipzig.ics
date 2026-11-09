@@ -1,37 +1,76 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+PRODID:-//Politik und Gesellschaft Sachsen//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Leipzig
-X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:1786874295627a108b11706c@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261109T170000Z
+DTEND:20261109T190000Z
+SUMMARY:[Leipzig] Antifaschistische Wirtschaftspolitik
+LOCATION:Leipzig\, genauer Ort wird nach Anmeldung bekannt gegeben Leipzig
+DESCRIPTION:Antifaschistische Wirtschaftspolitik - Rosa-Luxemburg-Stiftung 
+ - Sachsen Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdenspr
+ ache www.rosalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular 
+ Suchbegriff eingeben... schließen Menü Über uns: Unterseiten anzeigen 
+ Über uns Gremien Mitglied werden Satzung Spenden Transparenz Wissenschaft
+ spreis Rosa Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltunge
+ n Veranstaltungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Pr
+ ojekte: Unterseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranst
+ altung/es_detail/AAMLV/antifaschistische-wirtschaftspolitik?cHash=c2b36111
+ 42b71a34e6e5a09c81aa3994
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AAMLV/antifaschistis
+ che-wirtschaftspolitik?cHash=c2b3611142b71a34e6e5a09c81aa3994
+END:VEVENT
+BEGIN:VEVENT
 UID:c26c12170243e7c687812582@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
-SUMMARY:[Leipzig] Mujeres Libres – Freie Frauen im Spanischen Bürgerkrie
- g
-LOCATION:Capa-Haus\, Jahnallee 61\, 04177 Leipzig
-DESCRIPTION:Vortrag und Diskussion mit Vera Bianchi zur Geschichte der Muje
- res Libres im Spanischen Bürgerkrieg.\n\nQuelle: https://sachsen.rosalux.
- de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e994
- 2f5081d1fade
+SUMMARY:[Leipzig] Mujeres Libres.
+LOCATION:Capa-Haus Jahnallee 61 04177 Leipzig
+DESCRIPTION:Mujeres Libres. - Rosa-Luxemburg-Stiftung - Sachsen Zum Hauptin
+ halt springen Leichte Sprache Inhalte in Gebärdensprache www.rosalux.de (
+ Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff eingeben.
+ .. schließen Menü Über uns: Unterseiten anzeigen Über uns Gremien Mitg
+ lied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa Luxemburg 
+ Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltungsdokume
+ ntationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unterseiten an
+ zeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L
+ /mujeres-libres?cHash=26d6b27df7a04d14e9942f5081d1fade
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
  ?cHash=26d6b27df7a04d14e9942f5081d1fade
 END:VEVENT
 BEGIN:VEVENT
 UID:85767dd43feac474bd251ed5@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
-DTSTART:20270111T160000Z
-DTEND:20270111T190000Z
-SUMMARY:[Leipzig] Charmanter Umgang mit Widerstand
-LOCATION:Grünes Quartier\, Heinrichstraße 9\, 04317 Leipzig
-DESCRIPTION:Workshop zu Gesprächsführung\, Konfliktbearbeitung und gesell
- schaftlicher Polarisierung.\n\nQuelle: https://daks-sachsen.de/event/charm
- anter-umgang-mit-widerstand/
+DTSTAMP:20261109T180557Z
+DTSTART:20270110T230000Z
+DTEND:20270111T010000Z
+SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
+LOCATION:Grünes Quartier\, Leipzig Heinrichstr. 9\, 04317 Leipzig
+DESCRIPTION:Du erlebst in deiner kommunalpolitischen oder ehrenamtlichen Ar
+ beit immer öfter raue Töne\, Ablehnung oder offene Feindseligkeit? In di
+ esem Workshop lernst du\, wie du auch in schwierigen Situationen die Ruhe 
+ bewahrst und Gespräche so führst\, dass du trotz Widerständen gehört w
+ irst und gemeinsam Lösungen findest. In dieser Veranstaltung erprobst du 
+ die Methode des Motivational Interviewing\, um Blockaden in Gesprächen zu
+  lösen\; lernst du konkrete Fragetechniken\, mit denen du Gegenüber aus 
+ einer Abwehrhaltung holst\; reflektierst du an deinen eigenen Beispielen a
+ us dem Ratsalltag oder dem Ehrenamt\, wo Kommunikation scheitert\; entwick
+ elst du Strategien\, um professionell mit Provokationen und Wut umzugehen\
+ , ohne die Sache aus den Augen zu verlieren\; tauschst dich mit anderen ko
+ mmunalpolitischen Engagierten über den Umgang mit gesellschaftlicher Pola
+ risierung aus. Diese Veranstaltung ist für dich\, wenn du … als kommuna
+ le Mandatsträger*in oder im Ehrenamt oft mit starken Vorurteilen oder Agg
+ ressionen konfrontiert*in bist\; in deiner Rolle als Brückenbauer*in zwis
+ chen verschiedenen Interessengruppen vermitteln möchtest\; spürst\, dass
+  Diskussionen in deinem Umfeld zunehmend verhärten und du Weg\n\nQuelle: 
+ https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 END:VEVENT

@@ -1,1 +1,25 @@
-{}
+{
+  "at": "2026-11-09T19:05:57.845274+01:00",
+  "counts": {
+    "Chemnitz": 2,
+    "Leipzig": 3,
+    "Dresden": 2
+  },
+  "total": 15,
+  "sources": {
+    "kreuzer": "nur manuelle Erfassung",
+    "daks": "14 validierte Termine",
+    "weiterdenken": "keine validierten Termine",
+    "rosalux": "8 validierte Termine",
+    "bund": "keine validierten Termine",
+    "abl": "keine validierten Termine",
+    "azconni": "keine validierten Termine",
+    "conneisland": "keine validierten Termine",
+    "mittendrin": "keine validierten Termine",
+    "kaffeesatz": "keine validierten Termine",
+    "ig_chemnitz_nazifrei": "nur manuelle Erfassung",
+    "ig_handinhand": "nur manuelle Erfassung",
+    "ig_talschock": "nur manuelle Erfassung",
+    "ig_subbotnik": "nur manuelle Erfassung"
+  }
+}

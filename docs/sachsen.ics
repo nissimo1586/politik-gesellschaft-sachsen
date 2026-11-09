@@ -1,113 +1,349 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+PRODID:-//Politik und Gesellschaft Sachsen//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Sachsen
-X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:1786874295627a108b11706c@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261109T170000Z
+DTEND:20261109T190000Z
+SUMMARY:[Leipzig] Antifaschistische Wirtschaftspolitik
+LOCATION:Leipzig\, genauer Ort wird nach Anmeldung bekannt gegeben Leipzig
+DESCRIPTION:Antifaschistische Wirtschaftspolitik - Rosa-Luxemburg-Stiftung 
+ - Sachsen Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdenspr
+ ache www.rosalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular 
+ Suchbegriff eingeben... schließen Menü Über uns: Unterseiten anzeigen 
+ Über uns Gremien Mitglied werden Satzung Spenden Transparenz Wissenschaft
+ spreis Rosa Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltunge
+ n Veranstaltungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Pr
+ ojekte: Unterseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranst
+ altung/es_detail/AAMLV/antifaschistische-wirtschaftspolitik?cHash=c2b36111
+ 42b71a34e6e5a09c81aa3994
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AAMLV/antifaschistis
+ che-wirtschaftspolitik?cHash=c2b3611142b71a34e6e5a09c81aa3994
+END:VEVENT
+BEGIN:VEVENT
 UID:8f87ac383bae48fed4dda4f7@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261111T180000Z
 DTEND:20261111T200000Z
-SUMMARY:[Dresden] Meine verletzte Generation – Lesung mit Carla Hinrichs
-LOCATION:Gartenlokal Fortschritt\, Bärnsdorfer Straße 2a\, 01097 Dresden
-DESCRIPTION:Lesung und Diskussion mit Carla Hinrichs über die Letzte Gener
- ation\, Grundrechte und den Umgang des Staates mit Klimaprotesten.\n\nQuel
- le: https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletz
- te-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
+SUMMARY:[Dresden] Meine verletzte Generation
+LOCATION:Gartenlokal Fortschritt Bärnsdorfer Straße 2a 01097 Dresden
+DESCRIPTION:Meine verletzte Generation - Rosa-Luxemburg-Stiftung - Sachsen 
+ Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.r
+ osalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegrif
+ f eingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns G
+ remien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa
+  Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstal
+ tungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unt
+ erseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_d
+ etail/JMOS2/meine-verletzte-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f
+ 558
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletzt
  e-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
 END:VEVENT
 BEGIN:VEVENT
 UID:ad4a1fe28c2c05f4814b6a21@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
-DTSTART:20261114T090000Z
-DTEND:20261114T160000Z
-SUMMARY:[Chemnitz] Kommunalrecht im Fokus: Baurecht und Bauleitplanung
-LOCATION:Jugendherberge Chemnitz eins\, Getreidemarkt 1\, 09111 Chemnitz (a
- uch online)
-DESCRIPTION:Seminar zu kommunalem Baurecht\, Bebauungsplänen und Beteiligu
- ngsverfahren. Anmeldung erforderlich.\n\nQuelle: https://daks-sachsen.de/e
- vent/baurecht-2/
+DTSTAMP:20261109T180557Z
+DTSTART:20261113T230000Z
+DTEND:20261114T010000Z
+SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
+ g
+LOCATION:Jugendherberge Chemnitz "eins" Getreidemarkt 1\, 09111 Chemnitz
+DESCRIPTION:Wie wird entschieden\, was wo gebaut werden darf und wer hat da
+ bei eigentlich auf kommunaler Ebene mitzureden? In dieser Veranstaltung le
+ rnst du\, wie Bauleitplanung funktioniert und wie du dich als kommunale Ma
+ ndatsträger*in und kommunalpolitisch Engagierte*r aktiv in städtebaulich
+ e Entscheidungen einbringen kannst. In dieser Veranstaltung … erhältst 
+ du eine Einführung in das Baurecht und insbesondere das Bauplanungsrecht 
+ lernst du das Verfahren zur Erstellung und Änderung von Bebauungsplänen 
+ kennen erfährst du\, welche rechtlichen Grundlagen und Rahmenbedingungen 
+ dabei auf kommunaler Ebene eine Rolle spielen analysierst du konkrete Beba
+ uungspläne aus der Praxis und verstehst ihren Regelungsgehalt bekommst du
+  Hinweise\, wie du dich – mit oder ohne Mandat – wirkungsvoll einbring
+ en kannst Diese Veranstaltung ist für dich\, wenn du … kommunalpolitisc
+ h in Stadt- und Gemeinderat oder im Kreistag aktiv bist und mehr über Beb
+ auungspläne und Bauleitplanung wissen willst am Kommunalrecht interessier
+ t bist dir einen fundierten Überblick über Verfahren und Einflussmöglic
+ hkeiten verschaffen möchtest verstehen willst\, wie sich baurechtliche En
+ tscheidungen auf das Leben in deiner Kommune auswirken.\n\nQuelle: https:/
+ /daks-sachsen.de/event/baurecht-2/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/baurecht-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:df05df5554a16dba05cfc72f@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
 SUMMARY:[Dresden] Feminismus von F bis S
-LOCATION:Wir AG\, Martin-Luther-Straße 21\, 01099 Dresden
-DESCRIPTION:Workshop zu Grundlagen des Feminismus und geschlechtlicher Viel
- falt mit Almuth Heinrich. Anmeldung erforderlich.\n\nQuelle: https://sachs
- en.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=7
- d41249414b189c23f3c831bffa0a56d
+LOCATION:Wir AG Martin-Luther-Straße 21 01099 Dresden
+DESCRIPTION:Feminismus von F bis S - Rosa-Luxemburg-Stiftung - Sachsen Zum 
+ Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.rosal
+ ux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff ei
+ ngeben... schließen Menü Über uns: Unterseiten anzeigen Über uns Gremi
+ en Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa Lux
+ emburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltung
+ sdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unterse
+ iten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_detai
+ l/KHNR4/feminismus-von-f-bis-s?cHash=68f9f018f7bdc16b1f71cd9831d63519
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
- -f-bis-s?cHash=7d41249414b189c23f3c831bffa0a56d
+ -f-bis-s?cHash=68f9f018f7bdc16b1f71cd9831d63519
 END:VEVENT
 BEGIN:VEVENT
 UID:c26c12170243e7c687812582@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
-SUMMARY:[Leipzig] Mujeres Libres – Freie Frauen im Spanischen Bürgerkrie
- g
-LOCATION:Capa-Haus\, Jahnallee 61\, 04177 Leipzig
-DESCRIPTION:Vortrag und Diskussion mit Vera Bianchi zur Geschichte der Muje
- res Libres im Spanischen Bürgerkrieg.\n\nQuelle: https://sachsen.rosalux.
- de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e994
- 2f5081d1fade
+SUMMARY:[Leipzig] Mujeres Libres.
+LOCATION:Capa-Haus Jahnallee 61 04177 Leipzig
+DESCRIPTION:Mujeres Libres. - Rosa-Luxemburg-Stiftung - Sachsen Zum Hauptin
+ halt springen Leichte Sprache Inhalte in Gebärdensprache www.rosalux.de (
+ Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff eingeben.
+ .. schließen Menü Über uns: Unterseiten anzeigen Über uns Gremien Mitg
+ lied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa Luxemburg 
+ Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltungsdokume
+ ntationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unterseiten an
+ zeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L
+ /mujeres-libres?cHash=26d6b27df7a04d14e9942f5081d1fade
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
  ?cHash=26d6b27df7a04d14e9942f5081d1fade
 END:VEVENT
 BEGIN:VEVENT
 UID:9046fc64f832a55b6edee2bc@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
-SUMMARY:[Glauchau] Aller Aufstieg ist schwer – Arm\, ostdeutsch\, Arbeite
- rkind
-LOCATION:Club-Kino Glauchau\, Marienstraße 46\, 08371 Glauchau
-DESCRIPTION:Lesung und Gespräch mit Ramona Wuttig über soziale Ungleichhe
- it und Chancengleichheit.\n\nQuelle: https://sachsen.rosalux.de/veranstalt
- ung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=6b329ea618dd415d72493a
- 13916bba9d
+SUMMARY:[Glauchau] Aller Aufstieg ist schwer
+LOCATION:Club-Kino Glauchau Marienstraße 46 08371 Glauchau
+DESCRIPTION:Aller Aufstieg ist schwer - Rosa-Luxemburg-Stiftung - Sachsen Z
+ um Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.ro
+ salux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff
+  eingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns Gr
+ emien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa 
+ Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstalt
+ ungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unte
+ rseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_de
+ tail/ZWSUI/aller-aufstieg-ist-schwer?cHash=6b329ea618dd415d72493a13916bba9
+ d
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
  -ist-schwer?cHash=6b329ea618dd415d72493a13916bba9d
 END:VEVENT
 BEGIN:VEVENT
+UID:813119968083a5154c449206@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261120T180000Z
+DTEND:20261120T200000Z
+SUMMARY:[Chemnitz] Diskussion/Vortrag : Gemeinschaft in der Krise?
+LOCATION:Hot super Brühl 71 09111 Chemnitz
+DESCRIPTION:Gemeinschaft in der Krise? - Rosa-Luxemburg-Stiftung - Sachsen 
+ Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.r
+ osalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegrif
+ f eingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns G
+ remien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa
+  Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstal
+ tungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unt
+ erseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_d
+ etail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d675
+ 94
+STATUS:CANCELLED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
+ n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
+END:VEVENT
+BEGIN:VEVENT
+UID:bddc1418f62cb5dd42af155b@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:[Online] Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wi
+ e Zwischenruf
+LOCATION:online
+DESCRIPTION:Ein kommunales Mandat bringt viele praktische Herausforderungen
+  mit sich – von formalen Abläufen über strategische Wortmeldungen bis 
+ hin zu schwierigen Situationen im Sitzungsverlauf. Die Veranstaltung vermi
+ ttelt kompaktes\, praxisnahes Handwerkszeug für den politischen Alltag im
+  Gremium und unterstützt dabei\, sicher\, souverän und gut vorbereitet a
+ ufzutreten. In dieser Veranstaltung lernst du welche formalen Instrumente 
+ dir im kommunalen Gremium zur Verfügung stehen wie du Anträge\, Anfragen
+  und Redebeiträge gezielt und wirkungsvoll einsetzen kannst wie du souver
+ än mit Zwischenrufen\, Provokationen und Geschäftsordnungsdebatten umgeh
+ st wie du dich effizient und strukturiert auf Sitzungen vorbereitest Diese
+  Veranstaltung ist für dich\, wenn du: ein kommunales Mandat innehast ode
+ r neu übernommen hast im politischen Alltag sicherer und routinierter wer
+ den möchtest dich manchmal von formalen Abläufen oder Debatten ausbremse
+ n lässt dein persönliches Handwerkszeug für die Gremienarbeit erweitern
+  willst Das nimmst du mit: mehr Sicherheit im Umgang mit formalen Instrume
+ nten konkrete Strategien für Auftritte und Debatten im kommunalen Gremium
+  praxisnahe Tipps für eine gute Sitzungs­vorbereitung\n\nQuelle: https:/
+ /daks-sachsen.de/event/toolbox/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/toolbox/
+END:VEVENT
+BEGIN:VEVENT
 UID:91811ab5e2c81a2381e3156d@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
+DTSTAMP:20261109T180557Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
-LOCATION:Kollektiv Schulstraße\, Schulstraße 8\, 02826 Görlitz
-DESCRIPTION:Workshop mit Volkmar Wölk und Daniela Schmohl über die Geschi
- chte der K-Gruppen und gegenwärtige politische Organisation.\n\nQuelle: h
- ttps://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gr
- uppen?cHash=56006cda5ac120375e09eb4547ceea55
+LOCATION:Kollektiv Schulstraße Schulstraße 8 02826 Görlitz
+DESCRIPTION:Return of the K-Gruppen - Rosa-Luxemburg-Stiftung - Sachsen Zum
+  Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.rosa
+ lux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff e
+ ingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns Grem
+ ien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa Lu
+ xemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltun
+ gsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unters
+ eiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_deta
+ il/AW32Y/return-of-the-k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
  k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
 END:VEVENT
 BEGIN:VEVENT
+UID:5f862b18d7ee9f356ccc6458@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261126T170000Z
+DTEND:20261126T193000Z
+SUMMARY:[Online] Workshop : Feminismus im Engagement
+LOCATION:Online-Veranstaltung
+DESCRIPTION:Feminismus im Engagement - Rosa-Luxemburg-Stiftung - Sachsen Zu
+ m Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.ros
+ alux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff 
+ eingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns Gre
+ mien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa L
+ uxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltu
+ ngsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unter
+ seiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_det
+ ail/3ECS7/feminismus-im-engagement?cHash=93b4c3b230dedf566ab5e53231724c84
+STATUS:CONFIRMED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
+ engagement?cHash=93b4c3b230dedf566ab5e53231724c84
+END:VEVENT
+BEGIN:VEVENT
+UID:3a64ba20ed1530b6475e43e1@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
+  Kommunalpolitiker*innen – ein Überblick
+LOCATION:online
+DESCRIPTION:Du möchtest dein kommunalpolitisches Mandat aktiv wahrnehmen u
+ nd weißt nicht immer\, welche Rechte dir dafür zur Verfügung stehen? In
+  diesem Workshop lernst du\, wie du Informationen erhältst\, deine Rechte
+  nach der SächsGemO einforderst und die vorhandenen Instrumente gezielt n
+ utzt. Anhand konkreter Beispiele entwickelst du Strategien\, mit denen du 
+ dein Mandat im kommunalen Alltag wirksam ausüben kannst. In dieser Verans
+ taltung ... erfährst du\, welche Rechte dir als Gemeinde- oder Stadträt*
+ in nach der SächsGemO zustehen. lernst du\, wie du Informationen von der 
+ Verwaltung einfordern und dein Informationsrecht nutzen kannst. erfährst 
+ du\, welche Rechte und Ausstattungsmöglichkeiten Fraktionen haben. lernst
+  du\, unter welchen Voraussetzungen kommunalpolitische Rechte auch gericht
+ lich durchgesetzt werden können. Diese Veranstaltung ist für dich\, wenn
+  du ... als Gemeinde- oder Stadträt*in deine Rechte und Handlungsmöglich
+ keiten besser kennen und nutzen möchtest. in deinem kommunalpolitischen A
+ lltag Schwierigkeiten beim Zugang zu Informationen hast. wissen möchtest\
+ , wie du auf Fehler in kommunalen Verfahren reagieren kannst. in einer Fra
+ ktion aktiv bist und die Rechte und Ausstattungsmöglich\n\nQuelle: https:
+ //daks-sachsen.de/event/rechtliche-instrumente/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/rechtliche-instrumente/
+END:VEVENT
+BEGIN:VEVENT
 UID:85767dd43feac474bd251ed5@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
-DTSTART:20270111T160000Z
-DTEND:20270111T190000Z
-SUMMARY:[Leipzig] Charmanter Umgang mit Widerstand
-LOCATION:Grünes Quartier\, Heinrichstraße 9\, 04317 Leipzig
-DESCRIPTION:Workshop zu Gesprächsführung\, Konfliktbearbeitung und gesell
- schaftlicher Polarisierung.\n\nQuelle: https://daks-sachsen.de/event/charm
- anter-umgang-mit-widerstand/
+DTSTAMP:20261109T180557Z
+DTSTART:20270110T230000Z
+DTEND:20270111T010000Z
+SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
+LOCATION:Grünes Quartier\, Leipzig Heinrichstr. 9\, 04317 Leipzig
+DESCRIPTION:Du erlebst in deiner kommunalpolitischen oder ehrenamtlichen Ar
+ beit immer öfter raue Töne\, Ablehnung oder offene Feindseligkeit? In di
+ esem Workshop lernst du\, wie du auch in schwierigen Situationen die Ruhe 
+ bewahrst und Gespräche so führst\, dass du trotz Widerständen gehört w
+ irst und gemeinsam Lösungen findest. In dieser Veranstaltung erprobst du 
+ die Methode des Motivational Interviewing\, um Blockaden in Gesprächen zu
+  lösen\; lernst du konkrete Fragetechniken\, mit denen du Gegenüber aus 
+ einer Abwehrhaltung holst\; reflektierst du an deinen eigenen Beispielen a
+ us dem Ratsalltag oder dem Ehrenamt\, wo Kommunikation scheitert\; entwick
+ elst du Strategien\, um professionell mit Provokationen und Wut umzugehen\
+ , ohne die Sache aus den Augen zu verlieren\; tauschst dich mit anderen ko
+ mmunalpolitischen Engagierten über den Umgang mit gesellschaftlicher Pola
+ risierung aus. Diese Veranstaltung ist für dich\, wenn du … als kommuna
+ le Mandatsträger*in oder im Ehrenamt oft mit starken Vorurteilen oder Agg
+ ressionen konfrontiert*in bist\; in deiner Rolle als Brückenbauer*in zwis
+ chen verschiedenen Interessengruppen vermitteln möchtest\; spürst\, dass
+  Diskussionen in deinem Umfeld zunehmend verhärten und du Weg\n\nQuelle: 
+ https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
+END:VEVENT
+BEGIN:VEVENT
+UID:9edd6e59e222b40aa1f906ea@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20270128T230000Z
+DTEND:20270129T010000Z
+SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
+LOCATION:online
+DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
+ gagement. Die genaue Uhrzeit sowie weitere Informationen zu den Inhalten u
+ nd zum Ablauf der Veranstaltung folgen in Kürze. Wir freuen uns auf dich!
+  Unser Angebot gefällt dir? Wir freuen uns sehr\, dass wir unsere Veranst
+ altungen kostenfrei anbieten können\, um sie für alle zugänglich zu mac
+ hen. Damit das auch in Zukunft möglich bleibt\, sind wir auf Spenden ange
+ wiesen. Jeder Beitrag hilft uns direkt dabei\, Formate wie dieses zu reali
+ sieren. Mehr Informationen dazu\, wie du uns unterstützen kannst und was 
+ deine Spende bewirkt\, findest du hier.\n\nQuelle: https://daks-sachsen.de
+ /event/frei-reden/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/frei-reden/
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe1f9adfcd2da95c26bef90@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20270317T230000Z
+DTEND:20270318T010000Z
+SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
+ ­nal­po­litik
+LOCATION:online
+DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
+ gagement. Die genaue Uhrzeit sowie weitere Informationen zu den Inhalten u
+ nd zum Ablauf der Veranstaltung folgen in Kürze. Wir freuen uns auf dich!
+  Unser Angebot gefällt dir? Wir freuen uns sehr\, dass wir unsere Veranst
+ altungen kostenfrei anbieten können\, um sie für alle zugänglich zu mac
+ hen. Damit das auch in Zukunft möglich bleibt\, sind wir auf Spenden ange
+ wiesen. Jeder Beitrag hilft uns direkt dabei\, Formate wie dieses zu reali
+ sieren. Mehr Informationen dazu\, wie du uns unterstützen kannst und was 
+ deine Spende bewirkt\, findest du hier.\n\nQuelle: https://daks-sachsen.de
+ /event/framing/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/framing/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ef85640ee022d61cf7e2e9@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20270413T220000Z
+DTEND:20270414T000000Z
+SUMMARY:[Online] KI in der Kommu­nal­po­litik: Künst­liche Intel­lige
+ nz kompetent nutzen
+LOCATION:online
+DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
+ gagement. Die genaue Uhrzeit sowie weitere Informationen zu den Inhalten u
+ nd zum Ablauf der Veranstaltung folgen in Kürze. Wir freuen uns auf dich!
+  Unser Angebot gefällt dir? Wir freuen uns sehr\, dass wir unsere Veranst
+ altungen kostenfrei anbieten können\, um sie für alle zugänglich zu mac
+ hen. Damit das auch in Zukunft möglich bleibt\, sind wir auf Spenden ange
+ wiesen. Jeder Beitrag hilft uns direkt dabei\, Formate wie dieses zu reali
+ sieren. Mehr Informationen dazu\, wie du uns unterstützen kannst und was 
+ deine Spende bewirkt\, findest du hier.\n\nQuelle: https://daks-sachsen.de
+ /event/ki-kompetent-nutzen/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/ki-kompetent-nutzen/
 END:VEVENT
 END:VCALENDAR

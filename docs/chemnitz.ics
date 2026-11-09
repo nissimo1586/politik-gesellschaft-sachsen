@@ -1,23 +1,58 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+PRODID:-//Politik und Gesellschaft Sachsen//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Chemnitz
-X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ad4a1fe28c2c05f4814b6a21@politik-gesellschaft-sachsen
-DTSTAMP:20261109T173540Z
-DTSTART:20261114T090000Z
-DTEND:20261114T160000Z
-SUMMARY:[Chemnitz] Kommunalrecht im Fokus: Baurecht und Bauleitplanung
-LOCATION:Jugendherberge Chemnitz eins\, Getreidemarkt 1\, 09111 Chemnitz (a
- uch online)
-DESCRIPTION:Seminar zu kommunalem Baurecht\, Bebauungsplänen und Beteiligu
- ngsverfahren. Anmeldung erforderlich.\n\nQuelle: https://daks-sachsen.de/e
- vent/baurecht-2/
+DTSTAMP:20261109T180557Z
+DTSTART:20261113T230000Z
+DTEND:20261114T010000Z
+SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
+ g
+LOCATION:Jugendherberge Chemnitz "eins" Getreidemarkt 1\, 09111 Chemnitz
+DESCRIPTION:Wie wird entschieden\, was wo gebaut werden darf und wer hat da
+ bei eigentlich auf kommunaler Ebene mitzureden? In dieser Veranstaltung le
+ rnst du\, wie Bauleitplanung funktioniert und wie du dich als kommunale Ma
+ ndatsträger*in und kommunalpolitisch Engagierte*r aktiv in städtebaulich
+ e Entscheidungen einbringen kannst. In dieser Veranstaltung … erhältst 
+ du eine Einführung in das Baurecht und insbesondere das Bauplanungsrecht 
+ lernst du das Verfahren zur Erstellung und Änderung von Bebauungsplänen 
+ kennen erfährst du\, welche rechtlichen Grundlagen und Rahmenbedingungen 
+ dabei auf kommunaler Ebene eine Rolle spielen analysierst du konkrete Beba
+ uungspläne aus der Praxis und verstehst ihren Regelungsgehalt bekommst du
+  Hinweise\, wie du dich – mit oder ohne Mandat – wirkungsvoll einbring
+ en kannst Diese Veranstaltung ist für dich\, wenn du … kommunalpolitisc
+ h in Stadt- und Gemeinderat oder im Kreistag aktiv bist und mehr über Beb
+ auungspläne und Bauleitplanung wissen willst am Kommunalrecht interessier
+ t bist dir einen fundierten Überblick über Verfahren und Einflussmöglic
+ hkeiten verschaffen möchtest verstehen willst\, wie sich baurechtliche En
+ tscheidungen auf das Leben in deiner Kommune auswirken.\n\nQuelle: https:/
+ /daks-sachsen.de/event/baurecht-2/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/baurecht-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:813119968083a5154c449206@politik-gesellschaft-sachsen
+DTSTAMP:20261109T180557Z
+DTSTART:20261120T180000Z
+DTEND:20261120T200000Z
+SUMMARY:[Chemnitz] Diskussion/Vortrag : Gemeinschaft in der Krise?
+LOCATION:Hot super Brühl 71 09111 Chemnitz
+DESCRIPTION:Gemeinschaft in der Krise? - Rosa-Luxemburg-Stiftung - Sachsen 
+ Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdensprache www.r
+ osalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegrif
+ f eingeben... schließen Menü Über uns: Unterseiten anzeigen Über uns G
+ remien Mitglied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa
+  Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstal
+ tungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unt
+ erseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_d
+ etail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d675
+ 94
+STATUS:CANCELLED
+URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
+ n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
 END:VEVENT
 END:VCALENDAR
