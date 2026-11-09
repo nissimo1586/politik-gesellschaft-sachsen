@@ -6,71 +6,72 @@ METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Leipzig
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:1786874295627a108b11706c@politik-gesellschaft-sachsen
-DTSTAMP:20261109T180557Z
+UID:fc4ca5c39ce9e7b0341850f6@politik-gesellschaft-sachsen
+DTSTAMP:20261109T183627Z
 DTSTART:20261109T170000Z
 DTEND:20261109T190000Z
 SUMMARY:[Leipzig] Antifaschistische Wirtschaftspolitik
 LOCATION:Leipzig\, genauer Ort wird nach Anmeldung bekannt gegeben Leipzig
-DESCRIPTION:Antifaschistische Wirtschaftspolitik - Rosa-Luxemburg-Stiftung 
- - Sachsen Zum Hauptinhalt springen Leichte Sprache Inhalte in Gebärdenspr
- ache www.rosalux.de (Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular 
- Suchbegriff eingeben... schließen Menü Über uns: Unterseiten anzeigen 
- Über uns Gremien Mitglied werden Satzung Spenden Transparenz Wissenschaft
- spreis Rosa Luxemburg Veranstaltungen: Unterseiten anzeigen Veranstaltunge
- n Veranstaltungsdokumentationen Veranstaltungsarchiv Archiv 2003 - 2009 Pr
- ojekte: Unterseiten anzeigen\n\nQuelle: https://sachsen.rosalux.de/veranst
- altung/es_detail/AAMLV/antifaschistische-wirtschaftspolitik?cHash=c2b36111
- 42b71a34e6e5a09c81aa3994
+DESCRIPTION:Mit Steven Hummel (Politikwissenschaftler\, RLS Sachsen) Im Jah
+ r 2024 prägte Isabella Weber den Begriff "Antifaschistische Wirtschaftspo
+ litik". Im Oktober 2026 erscheint ihr gleichnamiges Buch\, welches erstmal
+ s ein ausformuliertes Programm zum Thema vorlegt. In einem Lesekreis wolle
+ n wir uns zentralen Fragestellungen und Analysen des Buches gemeinsam näh
+ ern. Dazu werden wir in sechs Terminen einzelne Abschnitte des Buches geme
+ insam diskutieren. Das Lesepensum beträgt zwischen 70 und 90 Seiten pro W
+ oche. Es wird eine einsteiger*innenfreundliche Atmosphäre angestrebt. Ter
+ mine Der Lesekreis findet wöchentlich montags von 18.00 bis 20.00 Uhr in 
+ Leipzig statt. Er startet am 09. November\, der letzte Termin ist der 14. 
+ Dezember. Alle Termine: 09.11\n\nQuelle: https://sachsen.rosalux.de/verans
+ taltung/es_detail/AAMLV/antifaschistische-wirtschaftspolitik?cHash=c2b3611
+ 142b71a34e6e5a09c81aa3994
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AAMLV/antifaschistis
  che-wirtschaftspolitik?cHash=c2b3611142b71a34e6e5a09c81aa3994
 END:VEVENT
 BEGIN:VEVENT
-UID:c26c12170243e7c687812582@politik-gesellschaft-sachsen
-DTSTAMP:20261109T180557Z
+UID:851b9678b860e3402d54e4cc@politik-gesellschaft-sachsen
+DTSTAMP:20261109T183627Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:[Leipzig] Mujeres Libres.
 LOCATION:Capa-Haus Jahnallee 61 04177 Leipzig
-DESCRIPTION:Mujeres Libres. - Rosa-Luxemburg-Stiftung - Sachsen Zum Hauptin
- halt springen Leichte Sprache Inhalte in Gebärdensprache www.rosalux.de (
- Hauptseite der Rosa-Luxemburg-Stiftung) Suchformular Suchbegriff eingeben.
- .. schließen Menü Über uns: Unterseiten anzeigen Über uns Gremien Mitg
- lied werden Satzung Spenden Transparenz Wissenschaftspreis Rosa Luxemburg 
- Veranstaltungen: Unterseiten anzeigen Veranstaltungen Veranstaltungsdokume
- ntationen Veranstaltungsarchiv Archiv 2003 - 2009 Projekte: Unterseiten an
- zeigen\n\nQuelle: https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L
- /mujeres-libres?cHash=26d6b27df7a04d14e9942f5081d1fade
+DESCRIPTION:Mit Vera Bianchi (Historikerin)\, Moderation: Daniela Schmohl (
+ RLS Sachsen) Eine Veranstaltung der VVN-BdA Leipzig e.V. in Kooperation mi
+ t der RLS Sachsen Die Mujeres Libres („Freie Frauen“) waren eine anarc
+ histische Frauenorganisation\, die vor allem während des Spanischen Bürg
+ erkriegs für die soziale Revolution und feministische Emanzipation kämpf
+ te. Im April 1936 gegründet\, wollten die Mujeres Libres Frauen für die 
+ anarchistische Bewegung gewinnen und ihnen durch Bildung\, Ausbildung und 
+ gemeinschaftliche Selbstorganisation ein selbstbestimmtes und wirtschaftli
+ ch unabhängiges Leben ermöglichen. Sie reagierten damit auch auf den Sex
+ ismus innerhalb der anarchosyndikalistischen Bewegung\, vor allem der CNT\
+ , und bildeten eigenständige Strukturen\n\nQuelle: https://sachsen.rosalu
+ x.de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e9
+ 942f5081d1fade
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
  ?cHash=26d6b27df7a04d14e9942f5081d1fade
 END:VEVENT
 BEGIN:VEVENT
-UID:85767dd43feac474bd251ed5@politik-gesellschaft-sachsen
-DTSTAMP:20261109T180557Z
-DTSTART:20270110T230000Z
-DTEND:20270111T010000Z
+UID:11692d9595d1ce9ec737b363@politik-gesellschaft-sachsen
+DTSTAMP:20261109T183627Z
+DTSTART:20270111T160000Z
+DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
 LOCATION:Grünes Quartier\, Leipzig Heinrichstr. 9\, 04317 Leipzig
-DESCRIPTION:Du erlebst in deiner kommunalpolitischen oder ehrenamtlichen Ar
- beit immer öfter raue Töne\, Ablehnung oder offene Feindseligkeit? In di
- esem Workshop lernst du\, wie du auch in schwierigen Situationen die Ruhe 
- bewahrst und Gespräche so führst\, dass du trotz Widerständen gehört w
- irst und gemeinsam Lösungen findest. In dieser Veranstaltung erprobst du 
- die Methode des Motivational Interviewing\, um Blockaden in Gesprächen zu
-  lösen\; lernst du konkrete Fragetechniken\, mit denen du Gegenüber aus 
- einer Abwehrhaltung holst\; reflektierst du an deinen eigenen Beispielen a
- us dem Ratsalltag oder dem Ehrenamt\, wo Kommunikation scheitert\; entwick
- elst du Strategien\, um professionell mit Provokationen und Wut umzugehen\
- , ohne die Sache aus den Augen zu verlieren\; tauschst dich mit anderen ko
- mmunalpolitischen Engagierten über den Umgang mit gesellschaftlicher Pola
- risierung aus. Diese Veranstaltung ist für dich\, wenn du … als kommuna
- le Mandatsträger*in oder im Ehrenamt oft mit starken Vorurteilen oder Agg
- ressionen konfrontiert*in bist\; in deiner Rolle als Brückenbauer*in zwis
- chen verschiedenen Interessengruppen vermitteln möchtest\; spürst\, dass
-  Diskussionen in deinem Umfeld zunehmend verhärten und du Weg\n\nQuelle: 
- https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
+DESCRIPTION:Du erlebst in deiner kommu­nal­po­li­ti­schen oder ehren­
+ amt­lichen Arbeit immer öfter raue Töne\, Ablehnung oder offene Feind­
+ se­ligkeit? In diesem Workshop lernst du\, wie du auch in schwie­rigen S
+ itua­tionen die Ruhe bewahrst und Gespräche so führst\, dass du trotz W
+ ider­ständen gehört wirst und gemeinsam Lösungen findest. Du erhältst
+  als kommunale Mandatsträger*in und ehren­e­matlich Engagierte*r einen 
+ Werkzeug­kasten für die Kommu­ni­kation in Konflikten. Du weißt nach 
+ dem Workshop\, welche Sätze und Fragen helfen\, wenn ein Gespräch zu esk
+ alieren droht oder dein Gegenüber nur noch blockiert. Du kannst diese Tec
+ hniken direkt in deiner nächsten Gemein­de­rats­sitzung\, bei Bürger
+ ­ver­samm­lungen oder in der Zusam­men­arbeit mit anderen Verein\n\nQ
+ uelle: https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 END:VEVENT

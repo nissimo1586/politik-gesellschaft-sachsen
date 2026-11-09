@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-09T19:05:57.845274+01:00",
+  "at": "2026-11-09T19:36:27.916945+01:00",
   "counts": {
     "Chemnitz": 2,
     "Leipzig": 3,
     "Dresden": 2
   },
-  "total": 15,
+  "total": 14,
   "sources": {
     "kreuzer": "nur manuelle Erfassung",
-    "daks": "14 validierte Termine",
+    "daks": "6 validierte Termine",
     "weiterdenken": "keine validierten Termine",
     "rosalux": "8 validierte Termine",
     "bund": "keine validierten Termine",
