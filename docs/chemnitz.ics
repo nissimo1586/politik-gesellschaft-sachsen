@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Politik und Gesellschaft Sachsen//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Politik & Gesellschaft – Chemnitz
+X-WR-TIMEZONE:Europe/Berlin
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ad4a1fe28c2c05f4814b6a21@politik-gesellschaft-sachsen
+DTSTAMP:20261109T173540Z
+DTSTART:20261114T090000Z
+DTEND:20261114T160000Z
+SUMMARY:[Chemnitz] Kommunalrecht im Fokus: Baurecht und Bauleitplanung
+LOCATION:Jugendherberge Chemnitz eins\, Getreidemarkt 1\, 09111 Chemnitz (a
+ uch online)
+DESCRIPTION:Seminar zu kommunalem Baurecht\, Bebauungsplänen und Beteiligu
+ ngsverfahren. Anmeldung erforderlich.\n\nQuelle: https://daks-sachsen.de/e
+ vent/baurecht-2/
+STATUS:CONFIRMED
+URL:https://daks-sachsen.de/event/baurecht-2/
+END:VEVENT
+END:VCALENDAR
