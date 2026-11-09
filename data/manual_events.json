@@ -1,0 +1,65 @@
+[
+  {
+    "source_id": "rosalux",
+    "title": "Mujeres Libres – Freie Frauen im Spanischen Bürgerkrieg",
+    "start": "2026-11-17T19:00:00+01:00",
+    "city": "Leipzig",
+    "location": "Capa-Haus, Jahnallee 61, 04177 Leipzig",
+    "description": "Vortrag und Diskussion zur Geschichte der Mujeres Libres im Spanischen Bürgerkrieg.",
+    "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres"
+  },
+  {
+    "source_id": "rosalux",
+    "title": "Aller Aufstieg ist schwer – Arm, ostdeutsch, Arbeiterkind",
+    "start": "2026-11-19T19:00:00+01:00",
+    "city": "Glauchau",
+    "location": "Club-Kino Glauchau, Marienstraße 46, 08371 Glauchau",
+    "description": "Lesung und Gespräch zu sozialer Ungleichheit und Chancengleichheit.",
+    "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg-ist-schwer"
+  },
+  {
+    "source_id": "rosalux",
+    "title": "Return of the K-Gruppen",
+    "start": "2026-11-24T18:00:00+01:00",
+    "city": "Görlitz",
+    "location": "Kollektiv Schulstraße, Schulstraße 8, 02826 Görlitz",
+    "description": "Workshop zur Geschichte politischer Organisation.",
+    "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen"
+  },
+  {
+    "source_id": "daks",
+    "title": "Kommunalrecht im Fokus: Baurecht und Bauleitplanung",
+    "start": "2026-11-14T10:00:00+01:00",
+    "city": "Chemnitz",
+    "location": "Jugendherberge Chemnitz eins, Getreidemarkt 1, 09111 Chemnitz",
+    "description": "Seminar zu kommunalem Baurecht und Beteiligungsverfahren.",
+    "url": "https://daks-sachsen.de/event/baurecht-2/"
+  },
+  {
+    "source_id": "daks",
+    "title": "Charmanter Umgang mit Widerstand",
+    "start": "2027-01-11T17:00:00+01:00",
+    "city": "Leipzig",
+    "location": "Grünes Quartier, Heinrichstraße 9, 04317 Leipzig",
+    "description": "Workshop zu gesellschaftlicher Polarisierung und Gesprächsführung.",
+    "url": "https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/"
+  },
+  {
+    "source_id": "rosalux",
+    "title": "Meine verletzte Generation – Lesung mit Carla Hinrichs",
+    "start": "2026-11-11T19:00:00+01:00",
+    "city": "Dresden",
+    "location": "Gartenlokal Fortschritt, Bärnsdorfer Straße 2a, 01097 Dresden",
+    "description": "Lesung und Diskussion über Klimaproteste und Grundrechte.",
+    "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletzte-generation"
+  },
+  {
+    "source_id": "rosalux",
+    "title": "Feminismus von F bis S",
+    "start": "2026-11-17T18:00:00+01:00",
+    "city": "Dresden",
+    "location": "Wir AG, Martin-Luther-Straße 21, 01099 Dresden",
+    "description": "Workshop über Grundlagen von Feminismus und geschlechtlicher Vielfalt.",
+    "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von-f-bis-s"
+  }
+]
