@@ -6,32 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3d5fac4aad9e9ec5c177a37b@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
-DTSTART:20261111T180000Z
-DTEND:20261111T200000Z
-SUMMARY:[Dresden] Meine verletzte Generation
-LOCATION:Gartenlokal Fortschritt Bärnsdorfer Straße 2a 01097 Dresden
-DESCRIPTION:Mit Carla Hinrichs (Klimaaktivistin & Autorin)\; Moderation: Ja
- n Theurich (RLS Sachsen) Eine Veranstaltung der RLS Sachsen in Kooperation
-  mit dem Bildungsprojekt Sachsen im Klimawandel Carla Hinrichs schläft no
- ch\, als ein Einsatzkommando unter Berufung auf § 129 StGB ihre Wohnung s
- türmt. Der Vorwurf: Bildung einer kriminellen Vereinigung\, der Letzten G
- eneration. Die Jurastudentin aus Bremen\, die sich dafür einsetzt\, dass 
- Gesetze auch vom Staat eingehalten werden\, landet nun selbst dafür vor G
- ericht. Dieses Buch ist ein erschütterndes Zeugnis davon\, wie verletzt u
- nsere Demokratie ist und der dringliche Appell\, die eigenen Grundrechte i
- mmer wieder aktiv zu nutzen – solange wir sie noch haben. Hier geht es n
- icht um die Klimakrise. Hier geht es\n\nQuelle: https://sachsen.rosalux.de
- /veranstaltung/es_detail/JMOS2/meine-verletzte-generation?cHash=c9d66f29c1
- e1859f6e411bfb24a1f558
-STATUS:CONFIRMED
-URL:https://sachsen.rosalux.de/veranstaltung/es_detail/JMOS2/meine-verletzt
- e-generation?cHash=c9d66f29c1e1859f6e411bfb24a1f558
-END:VEVENT
-BEGIN:VEVENT
 UID:55649899a2e5013afd1760cc@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261114T090000Z
 DTEND:20261114T160000Z
 SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
@@ -54,7 +30,7 @@ URL:https://daks-sachsen.de/event/baurecht-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9c33efcc3580a33bf18284@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
 SUMMARY:[Dresden] Feminismus von F bis S
@@ -78,7 +54,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
 END:VEVENT
 BEGIN:VEVENT
 UID:851b9678b860e3402d54e4cc@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:[Leipzig] Mujeres Libres.
@@ -102,7 +78,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f7c2a27d77518f8a67639e@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:[Glauchau] Aller Aufstieg ist schwer
@@ -126,7 +102,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
 END:VEVENT
 BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
@@ -142,15 +118,15 @@ DESCRIPTION:Leider müssen wir die Veranstaltung kurzfristig absagen. Mit G
  ung zahlreicher (auch ökologischer) Gemeinschaftsformen. Nach einem philo
  sophischen\, aber an Laien gerichteten Input von Giovanni Tidona soll zur 
  philosophischen Reflexion und gemeins\n\nQuelle: https://sachsen.rosalux.d
- e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04
- f97f51cb594a1ff8d67594
+ e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=8b6570e302
+ 80d61f151f008e196483ef
 STATUS:CANCELLED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
- n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
+ n-der-krise?cHash=8b6570e30280d61f151f008e196483ef
 END:VEVENT
 BEGIN:VEVENT
 UID:bfaab43a50c2fe93d7d07249@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261121T090000Z
 DTEND:20261121T110000Z
 SUMMARY:[Online] Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wi
@@ -173,7 +149,7 @@ URL:https://daks-sachsen.de/event/toolbox/
 END:VEVENT
 BEGIN:VEVENT
 UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
@@ -190,29 +166,29 @@ DESCRIPTION:Mit Volkmar Wölk (Autor) und Daniela Schmohl (Historikerin\, R
   und Daniela Schmohl werfen einen Blick zurück in die Geschichte eines Te
  ils der außerparlamentarischen Opposition\, der Ents\n\nQuelle: https://s
  achsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cH
- ash=e5d06ab9c994dd02275e30936eff554d
+ ash=56006cda5ac120375e09eb4547ceea55
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
- k-gruppen?cHash=e5d06ab9c994dd02275e30936eff554d
+ k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
 END:VEVENT
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
 LOCATION:Online-Veranstaltung
-DESCRIPTION:Feminismus im Engagement Du willst die politisch engagieren\, f
- ühlst dich aber im Raum nicht wohl\, weil du nie zu Wort kommst? Du möch
- test dich in der Gruppe beteiligen und Verantwortung übernehmen\, aber es
-  melden sich lautstark diejenigen wieder\, die sich immer melden? Eigentli
- ch hast du Lust dabei zu sein\, aber empfindest die Kultur als hart und de
- struktiv\, so dass sie dich eher demotiviert? Genau das ist leider die Erf
- ahrung vieler Frauen\, die sich politisch in verschiedenen Kontexten engag
- ierem möchten. Denn: politische Partizipation ist auch eine Frage des Ges
- chlechts. Frauen sind in allen politischen Ebenen stark unterrepräsentier
- t. Fehlen sie\, fehlen auch ihre Perspektiven. Doch ihre reine Anwesenheit
-  allein reicht noch lange nicht au\n\nQuelle: https://sachsen.rosalux.de/v
+DESCRIPTION:Feminismus im Engagement Du willst dich politisch engagieren\, 
+ fühlst dich aber im Raum nicht wohl\, weil du nie zu Wort kommst? Du möc
+ htest dich in der Gruppe beteiligen und Verantwortung übernehmen\, aber e
+ s melden sich lautstark diejenigen wieder\, die sich immer melden? Eigentl
+ ich hast du Lust dabei zu sein\, aber empfindest die Kultur als hart\, so 
+ dass sie dich eher demotiviert? Genau das ist leider die Erfahrung vieler 
+ Frauen\, die sich politisch in verschiedenen Kontexten engagieren möchten
+ . Denn: politische Partizipation ist auch eine Frage des Geschlechts. Frau
+ en sind in allen politischen Ebenen stark unterrepräsentiert. Fehlen sie\
+ , fehlen auch ihre Perspektiven. Doch ihre reine Anwesenheit allein reicht
+  noch lange nicht aus. Es geht auc\n\nQuelle: https://sachsen.rosalux.de/v
  eranstaltung/es_detail/3ECS7/feminismus-im-engagement?cHash=93b4c3b230dedf
  566ab5e53231724c84
 STATUS:CONFIRMED
@@ -221,7 +197,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -244,7 +220,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:11692d9595d1ce9ec737b363@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -266,7 +242,7 @@ URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
@@ -286,7 +262,7 @@ URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261111T124641Z
+DTSTAMP:20261112T135033Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
