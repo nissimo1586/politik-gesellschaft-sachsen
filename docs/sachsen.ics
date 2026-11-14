@@ -7,7 +7,7 @@ X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:55649899a2e5013afd1760cc@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261114T090000Z
 DTEND:20261114T160000Z
 SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
@@ -30,7 +30,7 @@ URL:https://daks-sachsen.de/event/baurecht-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9c33efcc3580a33bf18284@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
 SUMMARY:[Dresden] Feminismus von F bis S
@@ -54,7 +54,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
 END:VEVENT
 BEGIN:VEVENT
 UID:851b9678b860e3402d54e4cc@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:[Leipzig] Mujeres Libres.
@@ -70,15 +70,15 @@ DESCRIPTION:Mit Vera Bianchi (Historikerin)\, Moderation: Daniela Schmohl (
  ch unabhängiges Leben ermöglichen. Sie reagierten damit auch auf den Sex
  ismus innerhalb der anarchosyndikalistischen Bewegung\, vor allem der CNT\
  , und bildeten eigenständige Strukturen\n\nQuelle: https://sachsen.rosalu
- x.de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=0541727f73ad0b31f8
- b92a6a77d0fa6d
+ x.de/veranstaltung/es_detail/1FZ5L/mujeres-libres?cHash=26d6b27df7a04d14e9
+ 942f5081d1fade
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
- ?cHash=0541727f73ad0b31f8b92a6a77d0fa6d
+ ?cHash=26d6b27df7a04d14e9942f5081d1fade
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f7c2a27d77518f8a67639e@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:[Glauchau] Aller Aufstieg ist schwer
@@ -102,7 +102,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
 END:VEVENT
 BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
@@ -118,15 +118,15 @@ DESCRIPTION:Leider müssen wir die Veranstaltung kurzfristig absagen. Mit G
  ung zahlreicher (auch ökologischer) Gemeinschaftsformen. Nach einem philo
  sophischen\, aber an Laien gerichteten Input von Giovanni Tidona soll zur 
  philosophischen Reflexion und gemeins\n\nQuelle: https://sachsen.rosalux.d
- e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=8b6570e302
- 80d61f151f008e196483ef
+ e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04
+ f97f51cb594a1ff8d67594
 STATUS:CANCELLED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
- n-der-krise?cHash=8b6570e30280d61f151f008e196483ef
+ n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
 END:VEVENT
 BEGIN:VEVENT
 UID:bfaab43a50c2fe93d7d07249@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261121T090000Z
 DTEND:20261121T110000Z
 SUMMARY:[Online] Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wi
@@ -149,7 +149,7 @@ URL:https://daks-sachsen.de/event/toolbox/
 END:VEVENT
 BEGIN:VEVENT
 UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
@@ -166,14 +166,14 @@ DESCRIPTION:Mit Volkmar Wölk (Autor) und Daniela Schmohl (Historikerin\, R
   und Daniela Schmohl werfen einen Blick zurück in die Geschichte eines Te
  ils der außerparlamentarischen Opposition\, der Ents\n\nQuelle: https://s
  achsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cH
- ash=e5d06ab9c994dd02275e30936eff554d
+ ash=56006cda5ac120375e09eb4547ceea55
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
- k-gruppen?cHash=e5d06ab9c994dd02275e30936eff554d
+ k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
 END:VEVENT
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -189,15 +189,15 @@ DESCRIPTION:Feminismus im Engagement Du willst dich politisch engagieren\,
  en sind in allen politischen Ebenen stark unterrepräsentiert. Fehlen sie\
  , fehlen auch ihre Perspektiven. Doch ihre reine Anwesenheit allein reicht
   noch lange nicht aus. Es geht auc\n\nQuelle: https://sachsen.rosalux.de/v
- eranstaltung/es_detail/3ECS7/feminismus-im-engagement?cHash=ffd2dc74f0a0ba
- b916ebee07449e777a
+ eranstaltung/es_detail/3ECS7/feminismus-im-engagement?cHash=93b4c3b230dedf
+ 566ab5e53231724c84
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
- engagement?cHash=ffd2dc74f0a0bab916ebee07449e777a
+ engagement?cHash=93b4c3b230dedf566ab5e53231724c84
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -220,7 +220,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:11692d9595d1ce9ec737b363@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -242,7 +242,7 @@ URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
@@ -262,7 +262,7 @@ URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu

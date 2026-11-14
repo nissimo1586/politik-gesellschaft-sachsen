@@ -7,7 +7,7 @@ X-WR-CALNAME:Politik & Gesellschaft – Chemnitz
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:55649899a2e5013afd1760cc@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261114T090000Z
 DTEND:20261114T160000Z
 SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
@@ -30,7 +30,7 @@ URL:https://daks-sachsen.de/event/baurecht-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261113T131140Z
+DTSTAMP:20261114T121536Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
@@ -46,10 +46,10 @@ DESCRIPTION:Leider müssen wir die Veranstaltung kurzfristig absagen. Mit G
  ung zahlreicher (auch ökologischer) Gemeinschaftsformen. Nach einem philo
  sophischen\, aber an Laien gerichteten Input von Giovanni Tidona soll zur 
  philosophischen Reflexion und gemeins\n\nQuelle: https://sachsen.rosalux.d
- e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=8b6570e302
- 80d61f151f008e196483ef
+ e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04
+ f97f51cb594a1ff8d67594
 STATUS:CANCELLED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
- n-der-krise?cHash=8b6570e30280d61f151f008e196483ef
+ n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
 END:VEVENT
 END:VCALENDAR
