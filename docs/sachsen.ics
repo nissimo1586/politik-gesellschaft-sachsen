@@ -6,31 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:55649899a2e5013afd1760cc@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
-DTSTART:20261114T090000Z
-DTEND:20261114T160000Z
-SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
- g
-LOCATION:Jugendherberge Chemnitz "eins" Getreidemarkt 1\, 09111 Chemnitz
-DESCRIPTION:Wie wird entschieden\, was wo gebaut werden darf und wer hat da
- bei eigentlich auf kommu­naler Ebene mitzu­reden? In dieser Veran­stalt
- ung lernst du\, wie Bauleit­planung funktio­niert und wie du dich als ko
- mmunale Mandatsträger*in und kommu­nal­po­li­tisch Engagierte*r aktiv
-  in städte­bau­liche Entschei­dungen einbringen kannst. Das nimmst du 
- mit Am Ende weißt du\, wie Bauleit­planung funktio­niert und wo deine k
- ommu­nal­po­li­ti­schen Mitge­stal­tungs­mög­lich­keiten liegen
-  – damit du Vorhaben besser bewerten und deine Position gezielt vertrete
- n kannst. Die Teilnahme ist sowohl vor Ort als auch online möglich. Bitte
-  gib bei deiner Anmeldung an\, ob du in Präsenz oder digital teilnehmen m
- öchtest. Wir freuen uns sehr\, dass wir unsere Veran­stal­\n\nQuelle: h
- ttps://daks-sachsen.de/event/baurecht-2/
-STATUS:CONFIRMED
-URL:https://daks-sachsen.de/event/baurecht-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:5c9c33efcc3580a33bf18284@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
 SUMMARY:[Dresden] Feminismus von F bis S
@@ -46,15 +23,15 @@ DESCRIPTION:Mit Almuth Heinrich (Politische Bildnerin) Für diesen Workshop
  okratiearbeit und Gewerkschaft. Eine Anmeldung ist wegen begrenzter Anzahl
   an Teilnehmer*innen notwendig unter: anmeldung@rosalux-sachsen.de Diese M
  aßnahme wird mitfinanziert du\n\nQuelle: https://sachsen.rosalux.de/veran
- staltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=68f9f018f7bdc16b1f71
- cd9831d63519
+ staltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=7d41249414b189c23f3c
+ 831bffa0a56d
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
- -f-bis-s?cHash=68f9f018f7bdc16b1f71cd9831d63519
+ -f-bis-s?cHash=7d41249414b189c23f3c831bffa0a56d
 END:VEVENT
 BEGIN:VEVENT
 UID:851b9678b860e3402d54e4cc@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:[Leipzig] Mujeres Libres.
@@ -78,7 +55,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/1FZ5L/mujeres-libres
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f7c2a27d77518f8a67639e@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:[Glauchau] Aller Aufstieg ist schwer
@@ -94,15 +71,15 @@ DESCRIPTION:Mit Ramona Wuttig (Soziologin & Autorin) Ramona Wuttig zeigt in
  ewegenden Biografie mit soziologischer Analyse macht dieses Buch zu einer 
  unverzichtbaren Lektüre. Ramona Wuttig ist Soziologin\, Autorin und Speak
  erin. Sie besitzt einen Master in Soziol\n\nQuelle: https://sachsen.rosalu
- x.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=fe6e0d5
- 9787084f6269b768cc4e9a0c3
+ x.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=6b329ea
+ 618dd415d72493a13916bba9d
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
- -ist-schwer?cHash=fe6e0d59787084f6269b768cc4e9a0c3
+ -ist-schwer?cHash=6b329ea618dd415d72493a13916bba9d
 END:VEVENT
 BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
@@ -126,7 +103,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
 END:VEVENT
 BEGIN:VEVENT
 UID:bfaab43a50c2fe93d7d07249@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261121T090000Z
 DTEND:20261121T110000Z
 SUMMARY:[Online] Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wi
@@ -149,7 +126,7 @@ URL:https://daks-sachsen.de/event/toolbox/
 END:VEVENT
 BEGIN:VEVENT
 UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
@@ -173,7 +150,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -197,7 +174,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -220,7 +197,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:11692d9595d1ce9ec737b363@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -242,7 +219,7 @@ URL:https://daks-sachsen.de/event/charmanter-umgang-mit-widerstand/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
@@ -262,7 +239,7 @@ URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu

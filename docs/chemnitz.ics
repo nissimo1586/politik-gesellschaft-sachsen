@@ -6,31 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Chemnitz
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:55649899a2e5013afd1760cc@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
-DTSTART:20261114T090000Z
-DTEND:20261114T160000Z
-SUMMARY:[Chemnitz] Kommu­nal­recht im Fokus: Baurecht und Bauleit­planun
- g
-LOCATION:Jugendherberge Chemnitz "eins" Getreidemarkt 1\, 09111 Chemnitz
-DESCRIPTION:Wie wird entschieden\, was wo gebaut werden darf und wer hat da
- bei eigentlich auf kommu­naler Ebene mitzu­reden? In dieser Veran­stalt
- ung lernst du\, wie Bauleit­planung funktio­niert und wie du dich als ko
- mmunale Mandatsträger*in und kommu­nal­po­li­tisch Engagierte*r aktiv
-  in städte­bau­liche Entschei­dungen einbringen kannst. Das nimmst du 
- mit Am Ende weißt du\, wie Bauleit­planung funktio­niert und wo deine k
- ommu­nal­po­li­ti­schen Mitge­stal­tungs­mög­lich­keiten liegen
-  – damit du Vorhaben besser bewerten und deine Position gezielt vertrete
- n kannst. Die Teilnahme ist sowohl vor Ort als auch online möglich. Bitte
-  gib bei deiner Anmeldung an\, ob du in Präsenz oder digital teilnehmen m
- öchtest. Wir freuen uns sehr\, dass wir unsere Veran­stal­\n\nQuelle: h
- ttps://daks-sachsen.de/event/baurecht-2/
-STATUS:CONFIRMED
-URL:https://daks-sachsen.de/event/baurecht-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261114T121536Z
+DTSTAMP:20261115T124753Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
