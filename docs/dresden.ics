@@ -5,28 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Dresden
 X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:5c9c33efcc3580a33bf18284@politik-gesellschaft-sachsen
-DTSTAMP:20261117T143113Z
-DTSTART:20261117T170000Z
-DTEND:20261117T193000Z
-SUMMARY:[Dresden] Feminismus von F bis S
-LOCATION:Wir AG Martin-Luther-Straße 21 01099 Dresden
-DESCRIPTION:Mit Almuth Heinrich (Politische Bildnerin) Für diesen Workshop
-  brauchst du keine Vorkenntnisse oder Vorbereitung zum Thema Feminismus. W
- ir steigen gemeinsam in Grundlagen ein\, streifen ein paar Begriffe und le
- rnen Formen des Feminismus kennen. Miteinander finden wir heraus\, was uns
-  in Bezug auf geschlechtliche und sexuelle Vielfalt persönlich und in der
-  politischen Arbeit wichtig ist. Außerdem sammeln wir Möglichkeiten\, un
- s feministisch zu verhalten oder sichtbar zu machen. Die Referentin ist fr
- eie politische Bildnerin mit Schwerpunkten auf Geschlechterreflexion\, Dem
- okratiearbeit und Gewerkschaft. Eine Anmeldung ist wegen begrenzter Anzahl
-  an Teilnehmer*innen notwendig unter: anmeldung@rosalux-sachsen.de Diese M
- aßnahme wird mitfinanziert du\n\nQuelle: https://sachsen.rosalux.de/veran
- staltung/es_detail/KHNR4/feminismus-von-f-bis-s?cHash=68f9f018f7bdc16b1f71
- cd9831d63519
-STATUS:CONFIRMED
-URL:https://sachsen.rosalux.de/veranstaltung/es_detail/KHNR4/feminismus-von
- -f-bis-s?cHash=68f9f018f7bdc16b1f71cd9831d63519
-END:VEVENT
 END:VCALENDAR
