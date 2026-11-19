@@ -7,7 +7,7 @@ X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:c2f7c2a27d77518f8a67639e@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:[Glauchau] Aller Aufstieg ist schwer
@@ -23,15 +23,15 @@ DESCRIPTION:Mit Ramona Wuttig (Soziologin & Autorin) Ramona Wuttig zeigt in
  ewegenden Biografie mit soziologischer Analyse macht dieses Buch zu einer 
  unverzichtbaren Lektüre. Ramona Wuttig ist Soziologin\, Autorin und Speak
  erin. Sie besitzt einen Master in Soziol\n\nQuelle: https://sachsen.rosalu
- x.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=fe6e0d5
- 9787084f6269b768cc4e9a0c3
+ x.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg-ist-schwer?cHash=6b329ea
+ 618dd415d72493a13916bba9d
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZWSUI/aller-aufstieg
- -ist-schwer?cHash=fe6e0d59787084f6269b768cc4e9a0c3
+ -ist-schwer?cHash=6b329ea618dd415d72493a13916bba9d
 END:VEVENT
 BEGIN:VEVENT
 UID:d6253529cf32993d3697cde3@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:[Chemnitz] [ABGESAGT] Gemeinschaft in der Krise?
@@ -47,15 +47,15 @@ DESCRIPTION:Leider müssen wir die Veranstaltung kurzfristig absagen. Mit G
  ung zahlreicher (auch ökologischer) Gemeinschaftsformen. Nach einem philo
  sophischen\, aber an Laien gerichteten Input von Giovanni Tidona soll zur 
  philosophischen Reflexion und gemeins\n\nQuelle: https://sachsen.rosalux.d
- e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=ee57b84a04
- f97f51cb594a1ff8d67594
+ e/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=8b6570e302
+ 80d61f151f008e196483ef
 STATUS:CANCELLED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-i
- n-der-krise?cHash=ee57b84a04f97f51cb594a1ff8d67594
+ n-der-krise?cHash=8b6570e30280d61f151f008e196483ef
 END:VEVENT
 BEGIN:VEVENT
 UID:bfaab43a50c2fe93d7d07249@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261121T090000Z
 DTEND:20261121T110000Z
 SUMMARY:[Online] Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wi
@@ -78,7 +78,7 @@ URL:https://daks-sachsen.de/event/toolbox/
 END:VEVENT
 BEGIN:VEVENT
 UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
@@ -95,14 +95,14 @@ DESCRIPTION:Mit Volkmar Wölk (Autor) und Daniela Schmohl (Historikerin\, R
   und Daniela Schmohl werfen einen Blick zurück in die Geschichte eines Te
  ils der außerparlamentarischen Opposition\, der Ents\n\nQuelle: https://s
  achsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cH
- ash=56006cda5ac120375e09eb4547ceea55
+ ash=e5d06ab9c994dd02275e30936eff554d
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
- k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
+ k-gruppen?cHash=e5d06ab9c994dd02275e30936eff554d
 END:VEVENT
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -126,7 +126,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -149,7 +149,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:6991bd6dd4dbe5a77ca6ee84@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -171,49 +171,49 @@ URL:https://daks-sachsen.de/event/umgang-mit-widerstand_le/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9b63506fc4394e54367cba@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270116T150000Z
 DTEND:20270116T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Res
  sourcen und Resilienz
 LOCATION:Plauen Plauen
-DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
- gagement. Die genaue Uhrzeit sowie weitere Infor­ma­tionen zu den Inhalt
- en und zum Ablauf der Veran­staltung folgen in Kürze. Wir freuen uns auf
-  dich! Wir freuen uns sehr\, dass wir unsere Veran­stal­tungen kostenfre
- i anbieten können\, um sie für alle zugänglich zu machen. Damit das auc
- h in Zukunft möglich bleibt\, sind wir auf Spenden angewiesen. Jeder Beit
- rag hilft uns direkt dabei\, Formate wie dieses zu reali­sieren. Mehr Inf
- or­ma­tionen dazu\, wie du uns unter­stützen kannst und was deine Spen
- de bewirkt\, findest du hier .\n\nQuelle: https://daks-sachsen.de/event/fr
- auen-gestalten-demokratie-und-kommunalpolitik-ressourcen-und-resilienz/
+DESCRIPTION:Kommu­nal­po­li­ti­sches Engagement kostet Zeit und Kraft.
+  Gegenwind\, Rückschläge und hohe Erwar­tungen können auf Dauer belast
+ en. In diesem Workshop setzt du dich mit deinen persön­lichen Stärken u
+ nd Kraft­quellen ausein­ander und entwickelst Strategien\, um auch in he
+ raus­for­dernden Situa­tionen handlungs­fähig zu bleiben und dein Eng
+ agement langfristig gesund zu gestalten. Du gewinnst einen klareren Blick 
+ darauf\, was dich in deinem kommu­nal­po­li­ti­schen Engagement stär
+ kt und was dir Kraft raubt. Du lernst\, deine persön­lichen und sozialen
+  Ressourcen bewusster einzu­setzen und auch in schwie­rigen Situa­tione
+ n deine Handlungs­mög­lich­keiten im Blick zu behalten. Mit konkreten 
+ Strategien kannst du Belastungen besser begegnen und dein k\n\nQuelle: htt
+ ps://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalpolitik
+ -ressourcen-und-resilienz/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
  olitik-ressourcen-und-resilienz/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
 LOCATION:online
-DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
- gagement. Die genaue Uhrzeit sowie weitere Infor­ma­tionen zu den Inhalt
- en und zum Ablauf der Veran­staltung folgen in Kürze. Wir freuen uns auf
-  dich! Wir freuen uns sehr\, dass wir unsere Veran­stal­tungen kostenfre
- i anbieten können\, um sie für alle zugänglich zu machen. Damit das auc
- h in Zukunft möglich bleibt\, sind wir auf Spenden angewiesen. Jeder Beit
- rag hilft uns direkt dabei\, Formate wie dieses zu reali­sieren. Mehr Inf
- or­ma­tionen dazu\, wie du uns unter­stützen kannst und was deine Spen
- de bewirkt\, findest du hier .\n\nQuelle: https://daks-sachsen.de/event/fr
- ei-reden/
+DESCRIPTION:Wir freuen uns sehr\, dass wir unsere Veran­stal­tungen koste
+ nfrei anbieten können\, um sie für alle zugänglich zu machen. Damit das
+  auch in Zukunft möglich bleibt\, sind wir auf Spenden angewiesen. Jeder 
+ Beitrag hilft uns direkt dabei\, Formate wie dieses zu reali­sieren. Mehr
+  Infor­ma­tionen dazu\, wie du uns unter­stützen kannst und was deine 
+ Spende bewirkt\, findest du hier .\n\nQuelle: https://daks-sachsen.de/even
+ t/frei-reden/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5c92a1febb405138404ce15@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270220T150000Z
 DTEND:20270220T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Mot
@@ -236,7 +236,7 @@ URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
 END:VEVENT
 BEGIN:VEVENT
 UID:4d8d7f5508519fbe247cfdd0@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270313T150000Z
 DTEND:20270313T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Rol
@@ -259,7 +259,7 @@ URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261118T140712Z
+DTSTAMP:20261119T143005Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
