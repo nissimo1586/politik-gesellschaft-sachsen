@@ -3,17 +3,6 @@
   "daks": [
     {
       "source_id": "daks",
-      "title": "Mein Mandat und ich: Toolbox – von A wie Antrag bis Z wie Zwischenruf",
-      "start": "2026-11-21T10:00:00+01:00",
-      "end": "2026-11-21T12:00:00+01:00",
-      "location": "online",
-      "city": "Online",
-      "description": "Ein kommu­nales Mandat bringt viele praktische Heraus­for­de­rungen mit sich – von formalen Abläufen über strate­gische Wortmel­dungen bis hin zu schwie­rigen Situa­tionen im Sitzungs­verlauf. Die Veran­staltung vermittelt kompaktes, praxis­nahes Handwerkszeug für den politi­schen Alltag im Gremium und unter­stützt dabei, sicher, souverän und gut vorbe­reitet aufzu­treten. Wir freuen uns sehr, dass wir unsere Veran­stal­tungen kostenfrei anbieten können, um sie für alle zugänglich zu machen. Damit das auch in Zukunft möglich bleibt, sind wir auf Spenden angewiesen. Jeder Beitrag hilft uns direkt dabei, Formate wie dieses zu reali­sieren. Mehr Infor­ma­tionen dazu, wie du uns unter­stützen kannst und was deine Spende bewirkt, findest du hier",
-      "url": "https://daks-sachsen.de/event/toolbox/",
-      "status": "CONFIRMED"
-    },
-    {
-      "source_id": "daks",
       "title": "Kommu­nal­recht kompakt: Recht­liche Instru­mente für Kommunalpolitiker*innen – ein Überblick",
       "start": "2026-12-03T18:00:00+01:00",
       "end": "2026-12-03T21:00:00+01:00",
@@ -94,24 +83,13 @@
   "rosalux": [
     {
       "source_id": "rosalux",
-      "title": "Gemeinschaft in der Krise?",
-      "start": "2026-11-20T19:00:00+01:00",
-      "end": "2026-11-20T21:00:00+01:00",
-      "location": "Hot super Brühl 71 09111 Chemnitz",
-      "city": "Chemnitz",
-      "description": "Leider müssen wir die Veranstaltung kurzfristig absagen. Mit Giovanni Tidona (Philosoph) „Wer sich nicht an einer Gemeinschaft zu beteiligen vermag oder ihrer wegen seiner Selbstgenügsamkeit überhaupt nicht bedarf, ist kein Teil des Staates, sondern entweder ein Tier oder ein Gott.“ So formulierte es Aristoteles bereits vor knapp 2400 Jahren in seiner Schrift Politik. Seitdem ist das Thema Gemeinschaft hochaktuell geblieben – insbesondere in Zeiten, in denen Gemeinschaft bedroht ist: durch politische Spaltungen, den Digital Turn und die voranschreitende Zerstörung zahlreicher (auch ökologischer) Gemeinschaftsformen. Nach einem philosophischen, aber an Laien gerichteten Input von Giovanni Tidona soll zur philosophischen Reflexion und gemeins",
-      "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/ZFIGA/gemeinschaft-in-der-krise?cHash=8b6570e30280d61f151f008e196483ef",
-      "status": "CANCELLED"
-    },
-    {
-      "source_id": "rosalux",
       "title": "Return of the K-Gruppen",
       "start": "2026-11-24T18:00:00+01:00",
       "end": "2026-11-24T20:30:00+01:00",
       "location": "Kollektiv Schulstraße Schulstraße 8 02826 Görlitz",
       "city": "Görlitz",
       "description": "Mit Volkmar Wölk (Autor) und Daniela Schmohl (Historikerin, RLS Sachsen) Die “K Gruppen”: Niemand kennt die genaue Zahl. Aber rund 100.000 Menschen dürften es gewesen sein, die im “roten Jahrzehnt”, den 1970er-Jahren, in der BRD die diversen Gruppen der “ML-Bewegung in Westdeutschland” durchlaufen haben. Eine Masse, die nie relevante politischen Kraft wurde. Vor dem Aufstieg dieser “K Gruppen” lag das Scheitern der antiautoritären Bewegung, das Verblassen der Hoffnungen, die in die 68er-Revolte gesetzt worden waren. Das neuerliche Auftreten ähnlicher Gruppen zeugt von Fantasielosigkeit und Lernunfähigkeit. Volkmar Wölk und Daniela Schmohl werfen einen Blick zurück in die Geschichte eines Teils der außerparlamentarischen Opposition, der Ents",
-      "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55",
+      "url": "https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cHash=e5d06ab9c994dd02275e30936eff554d",
       "status": "CONFIRMED"
     },
     {
