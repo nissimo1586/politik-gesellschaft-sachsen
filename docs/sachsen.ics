@@ -7,7 +7,7 @@ X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
 SUMMARY:[Görlitz] Return of the K-Gruppen
@@ -24,14 +24,14 @@ DESCRIPTION:Mit Volkmar Wölk (Autor) und Daniela Schmohl (Historikerin\, R
   und Daniela Schmohl werfen einen Blick zurück in die Geschichte eines Te
  ils der außerparlamentarischen Opposition\, der Ents\n\nQuelle: https://s
  achsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cH
- ash=e5d06ab9c994dd02275e30936eff554d
+ ash=56006cda5ac120375e09eb4547ceea55
 STATUS:CONFIRMED
 URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
- k-gruppen?cHash=e5d06ab9c994dd02275e30936eff554d
+ k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
 END:VEVENT
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -55,7 +55,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -78,7 +78,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:6991bd6dd4dbe5a77ca6ee84@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -100,7 +100,7 @@ URL:https://daks-sachsen.de/event/umgang-mit-widerstand_le/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9b63506fc4394e54367cba@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270116T150000Z
 DTEND:20270116T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Res
@@ -125,7 +125,7 @@ URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
@@ -142,7 +142,7 @@ URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:e5c92a1febb405138404ce15@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270220T150000Z
 DTEND:20270220T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Mot
@@ -165,7 +165,7 @@ URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
 END:VEVENT
 BEGIN:VEVENT
 UID:4d8d7f5508519fbe247cfdd0@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270313T150000Z
 DTEND:20270313T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Rol
@@ -188,7 +188,7 @@ URL:https://daks-sachsen.de/event/frauen-gestalten-demokratie-und-kommunalp
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261121T133122Z
+DTSTAMP:20261122T132531Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
