@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T14:25:31.807333+01:00",
+  "at": "2026-11-23T17:04:55.254171+01:00",
   "counts": {
     "Chemnitz": 0,
     "Leipzig": 1,
@@ -11,7 +11,7 @@
     "daks": "7 validierte Termine",
     "weiterdenken": "keine validierten Termine",
     "rosalux": "2 validierte Termine",
-    "bund": "keine validierten Termine",
+    "bund": "Abruf fehlgeschlagen",
     "abl": "keine validierten Termine",
     "azconni": "keine validierten Termine",
     "conneisland": "keine validierten Termine",
