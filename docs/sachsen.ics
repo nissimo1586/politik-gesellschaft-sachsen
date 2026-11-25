@@ -6,32 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:60e90e87a1ac32bfdbdd3cb3@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
-DTSTART:20261124T170000Z
-DTEND:20261124T193000Z
-SUMMARY:[Görlitz] [ABGESAGT] Return of the K-Gruppen
-LOCATION:Kollektiv Schulstraße Schulstraße 8 02826 Görlitz
-DESCRIPTION:Die Veranstaltung muss aus Krankheitsgründen leider kurzfristi
- g ausfallen. Wir suchen nach einem neuen Termin im 1. Quartal 2027. Mit Vo
- lkmar Wölk (Autor) und Daniela Schmohl (Historikerin\, RLS Sachsen) Die 
- “K Gruppen”: Niemand kennt die genaue Zahl. Aber rund 100.000 Menschen
-  dürften es gewesen sein\, die im “roten Jahrzehnt”\, den 1970er-Jahr
- en\, in der BRD die diversen Gruppen der “ML-Bewegung in Westdeutschland
- ” durchlaufen haben. Eine Masse\, die nie relevante politischen Kraft wu
- rde. Vor dem Aufstieg dieser “K Gruppen” lag das Scheitern der antiaut
- oritären Bewegung\, das Verblassen der Hoffnungen\, die in die 68er-Revol
- te gesetzt worden waren. Das neuerliche Auftreten ähnlicher Gruppen zeugt
-  von Fantasielosigkeit und Lernunfähigkeit. Volkma\n\nQuelle: https://sac
- hsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-k-gruppen?cHas
- h=56006cda5ac120375e09eb4547ceea55
-STATUS:CANCELLED
-URL:https://sachsen.rosalux.de/veranstaltung/es_detail/AW32Y/return-of-the-
- k-gruppen?cHash=56006cda5ac120375e09eb4547ceea55
-END:VEVENT
-BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -55,7 +31,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -78,7 +54,7 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:6991bd6dd4dbe5a77ca6ee84@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
@@ -100,7 +76,7 @@ URL:https://daks-sachsen.de/event/umgang-mit-widerstand_le/
 END:VEVENT
 BEGIN:VEVENT
 UID:4d62e0a9da195636f88ae107@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270116T150000Z
 DTEND:20270116T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Res
@@ -123,7 +99,7 @@ URL:https://daks-sachsen.de/event/ressourcen-und-resilienz/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
@@ -143,7 +119,7 @@ URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f5554d56d5eb77e3702802@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270220T150000Z
 DTEND:20270220T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Mot
@@ -166,7 +142,7 @@ URL:https://daks-sachsen.de/event/motivation-und-handlungsspielraeume/
 END:VEVENT
 BEGIN:VEVENT
 UID:0441adb489a66ae4b382422c@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270313T150000Z
 DTEND:20270313T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Rol
@@ -190,7 +166,7 @@ URL:https://daks-sachsen.de/event/rollen-und-dynamiken/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261124T155709Z
+DTSTAMP:20261125T154202Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
