@@ -7,7 +7,7 @@ X-WR-CALNAME:Politik & Gesellschaft – Sachsen
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:f82fcdc358466af1791f13fc@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20261126T170000Z
 DTEND:20261126T193000Z
 SUMMARY:[Online] Workshop : Feminismus im Engagement
@@ -31,7 +31,7 @@ URL:https://sachsen.rosalux.de/veranstaltung/es_detail/3ECS7/feminismus-im-
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaee02687d909ccc4712bf5@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:[Online] Kommu­nal­recht kompakt: Recht­liche Instru­mente für
@@ -54,11 +54,11 @@ URL:https://daks-sachsen.de/event/rechtliche-instrumente/
 END:VEVENT
 BEGIN:VEVENT
 UID:6991bd6dd4dbe5a77ca6ee84@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270111T160000Z
 DTEND:20270111T190000Z
 SUMMARY:[Leipzig] Charmanter Umgang mit Wider­stand
-LOCATION:Grünes Quartier\, Leipzig Heinrichstr. 9\, 04317 Leipzig
+LOCATION:Grünes Quartier Heinrichstr. 9\, 04317 Leipzig
 DESCRIPTION:Du erlebst in deiner kommu­nal­po­li­ti­schen oder ehren­
  amt­lichen Arbeit immer öfter raue Töne\, Ablehnung oder offene Feind­
  se­ligkeit? In diesem Workshop lernst du\, wie du auch in schwie­rigen S
@@ -76,12 +76,12 @@ URL:https://daks-sachsen.de/event/umgang-mit-widerstand_le/
 END:VEVENT
 BEGIN:VEVENT
 UID:4d62e0a9da195636f88ae107@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270116T150000Z
 DTEND:20270116T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Res
  sourcen und Resilienz
-LOCATION:Plauen Plauen
+LOCATION:Plauen
 DESCRIPTION:Kommu­nal­po­li­ti­sches Engagement kostet Zeit und Kraft.
   Gegenwind\, Rückschläge und hohe Erwar­tungen können auf Dauer belast
  en. In diesem Workshop setzt du dich mit deinen persön­lichen Stärken u
@@ -99,32 +99,34 @@ URL:https://daks-sachsen.de/event/ressourcen-und-resilienz/
 END:VEVENT
 BEGIN:VEVENT
 UID:d00f4e5b2aa6c3c2ebfb686c@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270129T170000Z
 DTEND:20270129T200000Z
 SUMMARY:[Online] Rhetorik auf den Punkt gebracht: Frei sprechen
 LOCATION:online
-DESCRIPTION:Vielen Dank für dein Interesse an unserem Workshop und dein En
- gagement. Die genaue Uhrzeit sowie weitere Infor­ma­tionen zu den Inhalt
- en und zum Ablauf der Veran­staltung folgen in Kürze. Wir freuen uns auf
-  dich! Wir freuen uns sehr\, dass wir unsere Veran­stal­tungen kostenfre
- i anbieten können\, um sie für alle zugänglich zu machen. Damit das auc
- h in Zukunft möglich bleibt\, sind wir auf Spenden angewiesen. Jeder Beit
- rag hilft uns direkt dabei\, Formate wie dieses zu reali­sieren. Mehr Inf
- or­ma­tionen dazu\, wie du uns unter­stützen kannst und was deine Spen
- de bewirkt\, findest du hier .\n\nQuelle: https://daks-sachsen.de/event/fr
- ei-reden/
+DESCRIPTION:Du musst oft spontan frei sprechen – sei es im Ausschuss oder
+  bei einer Bürger­ver­sammlung – und willst dabei souverän und über
+ zeugend wirken? In diesem Seminar lernst du\, wie du auch ohne Vorbe­reit
+ ung klar und struk­tu­riert deine Meinung präsen­tierst. Das nimmst du
+  mit Am Ende kannst du Stegreif­reden mit mehr Struktur und Wirkung halte
+ n – und das sogar spontan und ohne Vorbe­reitung. Du trittst sicher und
+  authen­tisch auf\, ganz gleich\, in welcher Rede-Situation du dich befin
+ dest. Wir freuen uns sehr\, dass wir unsere Veran­stal­tungen kostenfrei
+  anbieten können\, um sie für alle zugänglich zu machen. Damit das auch
+  in Zukunft möglich bleibt\, sind wir auf Spenden angewiesen. Jeder Beitr
+ ag hilft uns direkt dabei\, Formate wie dieses zu rea\n\nQuelle: https://d
+ aks-sachsen.de/event/frei-reden/
 STATUS:CONFIRMED
 URL:https://daks-sachsen.de/event/frei-reden/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f5554d56d5eb77e3702802@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270220T150000Z
 DTEND:20270220T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Mot
  ivation und Handlungs­spiel­räume
-LOCATION:Plauen Plauen
+LOCATION:Plauen
 DESCRIPTION:Was motiviert dich\, dich kommu­nal­po­li­tisch einzu­brin
  gen und Verant­wortung zu übernehmen? Und was hilft dir\, auch dann enga
  giert zu bleiben\, wenn Entschei­dungen schwierig sind oder Gestal­tungs
@@ -142,12 +144,12 @@ URL:https://daks-sachsen.de/event/motivation-und-handlungsspielraeume/
 END:VEVENT
 BEGIN:VEVENT
 UID:0441adb489a66ae4b382422c@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270313T150000Z
 DTEND:20270313T170000Z
 SUMMARY:[Plauen] Frauen gestalten Demokratie und Kommu­nal­po­litik: Rol
  len\, Dynamiken und psycho­lo­gische Sicherheit
-LOCATION:Plauen Plauen
+LOCATION:Plauen
 DESCRIPTION:In Fraktionen\, Ausschüssen und kommu­nal­po­li­ti­schen 
  Gremien treffen unter­schied­liche Menschen\, Inter­essen und Arbeits­
  weisen aufein­ander. Das kann die Zusam­men­arbeit berei­chern\, aber 
@@ -166,7 +168,7 @@ URL:https://daks-sachsen.de/event/rollen-und-dynamiken/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c688d1baf374c56404d733@politik-gesellschaft-sachsen
-DTSTAMP:20261125T154202Z
+DTSTAMP:20261126T152338Z
 DTSTART:20270318T170000Z
 DTEND:20270318T200000Z
 SUMMARY:[Online] Mit den richtigen Worten überzeugen: Framing in der Kommu
