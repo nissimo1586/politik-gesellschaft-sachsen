@@ -1,19 +1,19 @@
 {
-  "at": "2026-11-26T16:23:38.851397+01:00",
+  "at": "2026-11-27T16:11:21.637336+01:00",
   "counts": {
     "Chemnitz": 0,
     "Leipzig": 1,
     "Dresden": 0
   },
-  "total": 8,
+  "total": 9,
   "sources": {
     "kreuzer": "nur manuelle Erfassung",
-    "daks": "7 validierte Termine",
+    "daks": "9 validierte Termine",
     "weiterdenken": "keine validierten Termine",
-    "rosalux": "1 validierte Termine",
+    "rosalux": "keine validierten Termine",
     "bund": "keine validierten Termine",
     "abl": "keine validierten Termine",
-    "azconni": "keine validierten Termine",
+    "azconni": "Abruf fehlgeschlagen",
     "conneisland": "keine validierten Termine",
     "mittendrin": "keine validierten Termine",
     "kaffeesatz": "keine validierten Termine",
